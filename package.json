@@ -1,0 +1,33 @@
+{
+    "name": "pdf-decrypt-batch",
+    "version": "1.0.0",
+    "description": "批量解密PDF文件并处理附件",
+    "type": "module",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "tsc",
+        "start": "node dist/index.js",
+        "dev": "tsc && node dist/index.js",
+        "type-check": "tsc --noEmit",
+        "clean": "rimraf dist",
+        "lint": "tsc --noEmit && echo \"No TypeScript errors found\"",
+        "install-deps": "pnpm install",
+        "setup": "pnpm install && npm run build"
+    },
+    "dependencies": {
+        "@types/mime-types": "^3.0.1",
+        "mime-types": "^3.0.1",
+        "p-limit": "^7.1.1",
+        "pdfkit": "^0.14.0",
+        "xml2js": "^0.6.2"
+    },
+    "devDependencies": {
+        "@types/node": "^24.3.3",
+        "@types/pdfkit": "^0.17.3",
+        "@types/xml2js": "^0.4.14",
+        "rimraf": "^5.0.0",
+        "typescript": "^5.9.2"
+    },
+    "author": "",
+    "license": "MIT"
+}

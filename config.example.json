@@ -1,0 +1,9 @@
+{
+    "paths": {
+        "dataFile": "data.json",
+        "passwordFile": "fetch.json",
+        "inputDir": "2_data",
+        "outputDir": "3_output"
+    },
+    "concurrency": 16
+}

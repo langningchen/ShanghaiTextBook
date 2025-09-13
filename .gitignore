@@ -1,0 +1,6 @@
+node_modules/
+dist/
+token.json
+config.json
+1_zip/
+2_data/
