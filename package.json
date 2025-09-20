@@ -15,13 +15,16 @@
         "setup": "pnpm install && npm run build"
     },
     "dependencies": {
+        "@clack/prompts": "^0.11.0",
         "@types/mime-types": "^3.0.1",
+        "adm-zip": "^0.5.16",
         "mime-types": "^3.0.1",
         "p-limit": "^7.1.1",
         "pdfkit": "^0.14.0",
         "xml2js": "^0.6.2"
     },
     "devDependencies": {
+        "@types/adm-zip": "^0.5.7",
         "@types/node": "^24.3.3",
         "@types/pdfkit": "^0.17.3",
         "@types/xml2js": "^0.4.14",
