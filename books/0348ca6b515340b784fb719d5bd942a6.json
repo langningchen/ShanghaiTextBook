@@ -1,0 +1,35 @@
+{
+  "uuid": "0348ca6b515340b784fb719d5bd942a6",
+  "file_path": "https://cdn.sh-genius.cn/57a6d100953411c4d15835bad9b7a399.dcz",
+  "file_md5": "57a6d100953411c4d15835bad9b7a399",
+  "title": "自然活动部分 四年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/0348ca6b515340b784fb719d5bd942a6/0348ca6b515340b784fb719d5bd942a6.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/0348ca6b515340b784fb719d5bd942a6.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 4,
+  "short_title": "自然活动部分（试用本）（四/一）",
+  "update_time": "2025-08-06 14:44:06",
+  "subject": "ZR",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FOURTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "04",
+      "grade_level_str": "四年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHKJ",
+  "grade": "FOURTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "HDSC",
+  "isbn": "9787542859457",
+  "status": "1",
+  "subject_str": "自然"
+}

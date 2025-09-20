@@ -1,0 +1,35 @@
+{
+  "uuid": "c4519f95e4a34a06837da4918669cdca",
+  "file_path": "https://cdn.sh-genius.cn/480a65a58571df03299b845505dd11f5.dcz",
+  "file_md5": "480a65a58571df03299b845505dd11f5",
+  "title": "普通高中教科书 地理 选择性必修3 资源、环境与国家安全",
+  "cover_path": "https://cdn.sh-genius.cn/cover/c4519f95e4a34a06837da4918669cdca/c4519f95e4a34a06837da4918669cdca.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/c4519f95e4a34a06837da4918669cdca.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 4,
+  "short_title": "普通高中教科书•地理（选择性必修3 资源、环境与国家安全）",
+  "update_time": "2024-08-27 09:08:21",
+  "subject": "DL",
+  "used_grade_semesters": [
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "ZGDT",
+  "grade": "ELEVENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787558803154",
+  "status": "1",
+  "subject_str": "地理"
+}

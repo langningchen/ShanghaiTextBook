@@ -1,0 +1,35 @@
+{
+  "uuid": "3177f847153041b2924710e3744fa41d",
+  "file_path": "https://cdn.sh-genius.cn/342ec3e81e56488e1522918f211d2fa3.dcz",
+  "file_md5": "342ec3e81e56488e1522918f211d2fa3",
+  "title": "数学练习部分 五年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/3177f847153041b2924710e3744fa41d/3177f847153041b2924710e3744fa41d.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/3177f847153041b2924710e3744fa41d.jpg",
+  "is_current_term": 0,
+  "use_year": "2023",
+  "text_start_page": 2,
+  "short_title": "数学练习部分（试用本）（五/一）",
+  "update_time": "2023-08-18 16:20:52",
+  "subject": "SX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FIFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "05",
+      "grade_level_str": "五年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "FIFTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787544476904",
+  "status": "1",
+  "subject_str": "数学"
+}

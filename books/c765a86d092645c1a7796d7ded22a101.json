@@ -1,0 +1,40 @@
+{
+  "uuid": "c765a86d092645c1a7796d7ded22a101",
+  "file_path": "https://cdn.sh-genius.cn/8921f4e452561f6e46313bfb4b250721.dcz",
+  "file_md5": "8921f4e452561f6e46313bfb4b250721",
+  "title": "义务教育教科书（五·四学制） 体育与健康（教师用书） 其他民族民间传统体育类运动 全一册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/c765a86d092645c1a7796d7ded22a101/c765a86d092645c1a7796d7ded22a101.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/c765a86d092645c1a7796d7ded22a101.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 8,
+  "short_title": "义务教育教科书（五·四学制）·体育与健康教师用书 其他民族民间传统体育类运动 （全一册）",
+  "update_time": "2024-09-28 09:27:48",
+  "subject": "TJ",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SIXTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        },
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "06",
+      "grade_level_str": "六年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "SIXTH_GRADE",
+  "term": "ALL",
+  "use_type": "XSYS",
+  "isbn": "9787572029882",
+  "status": "1",
+  "subject_str": "体育与健身"
+}

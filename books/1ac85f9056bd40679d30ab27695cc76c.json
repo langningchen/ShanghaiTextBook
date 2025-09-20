@@ -1,0 +1,35 @@
+{
+  "uuid": "1ac85f9056bd40679d30ab27695cc76c",
+  "file_path": "https://cdn.sh-genius.cn/add86ea0ceb171bfc3417c46a9fa45d4.dcz",
+  "file_md5": "add86ea0ceb171bfc3417c46a9fa45d4",
+  "title": "科学练习部分 六年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/1ac85f9056bd40679d30ab27695cc76c/1ac85f9056bd40679d30ab27695cc76c.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/1ac85f9056bd40679d30ab27695cc76c.jpg",
+  "is_current_term": 0,
+  "use_year": "2023",
+  "text_start_page": 4,
+  "short_title": "科学练习部分（试用本）（六/一）",
+  "update_time": "2023-08-22 18:06:43",
+  "subject": "KX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SIXTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "06",
+      "grade_level_str": "六年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYD",
+  "grade": "SIXTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787807060765",
+  "status": "1",
+  "subject_str": "科学"
+}

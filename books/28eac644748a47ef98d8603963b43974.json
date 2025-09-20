@@ -1,0 +1,40 @@
+{
+  "uuid": "28eac644748a47ef98d8603963b43974",
+  "file_path": "https://cdn.sh-genius.cn/630853cb94e5b839b988f986158e0be6.dcz",
+  "file_md5": "630853cb94e5b839b988f986158e0be6",
+  "title": "上海市学生成长记录册（小学二年级）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/28eac644748a47ef98d8603963b43974/28eac644748a47ef98d8603963b43974.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/28eac644748a47ef98d8603963b43974.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "上海市学生成长记录册（小学二年级）",
+  "update_time": "2024-09-23 23:12:47",
+  "subject": "QT",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SECOND_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        },
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "02",
+      "grade_level_str": "二年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "HDSD",
+  "grade": "SECOND_GRADE",
+  "term": "ALL",
+  "use_type": "XSYS",
+  "isbn": "9787567594005",
+  "status": "1",
+  "subject_str": "其它"
+}

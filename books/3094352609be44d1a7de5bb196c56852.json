@@ -1,0 +1,35 @@
+{
+  "uuid": "3094352609be44d1a7de5bb196c56852",
+  "file_path": "https://cdn.sh-genius.cn/bc3abc7ff14e02705a312de505fa3f32.dcz",
+  "file_md5": "bc3abc7ff14e02705a312de505fa3f32",
+  "title": "英语（牛津上海版）二年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/3094352609be44d1a7de5bb196c56852/3094352609be44d1a7de5bb196c56852.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/3094352609be44d1a7de5bb196c56852.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 4,
+  "short_title": "英语（牛津上海版）（试用本）（二/二）",
+  "update_time": "2025-02-17 09:57:38",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SECOND_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "02",
+      "grade_level_str": "二年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "SECOND_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787544416481",
+  "status": "1",
+  "subject_str": "英语"
+}

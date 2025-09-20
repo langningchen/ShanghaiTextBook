@@ -1,0 +1,35 @@
+{
+  "uuid": "8723350a8a4e40b48f4fc1ce910210ac",
+  "file_path": "https://cdn.sh-genius.cn/f9131cb226e4610803f252992cf237bf.dcz",
+  "file_md5": "f9131cb226e4610803f252992cf237bf",
+  "title": "物理 八年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/8723350a8a4e40b48f4fc1ce910210ac/8723350a8a4e40b48f4fc1ce910210ac.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/8723350a8a4e40b48f4fc1ce910210ac.jpg",
+  "is_current_term": 0,
+  "use_year": "2023",
+  "text_start_page": 6,
+  "short_title": "物理（试用本）（八/一）",
+  "update_time": "2023-08-18 09:55:52",
+  "subject": "WL",
+  "used_grade_semesters": [
+    {
+      "grade_level": "EIGHTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "08",
+      "grade_level_str": "八年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "EIGHTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787544493000",
+  "status": "1",
+  "subject_str": "物理"
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "9193ba421bfb4b74b30c36c5cc93819f",
+  "file_path": "https://cdn.sh-genius.cn/f1aa5b8fd9e21dbf0ff7c447acd51caf.dcz",
+  "file_md5": "f1aa5b8fd9e21dbf0ff7c447acd51caf",
+  "title": "普通高中教科书 英语 选择性必修第一册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/9193ba421bfb4b74b30c36c5cc93819f/9193ba421bfb4b74b30c36c5cc93819f.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/9193ba421bfb4b74b30c36c5cc93819f.jpg",
+  "is_current_term": 0,
+  "use_year": "2022",
+  "text_start_page": 4,
+  "short_title": "普通高中教科书·英语（选择性必修第一册）",
+  "update_time": "2022-09-07 10:03:32",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "ELEVENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787572000805",
+  "status": "1",
+  "subject_str": "英语"
+}

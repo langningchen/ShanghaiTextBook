@@ -1,0 +1,34 @@
+{
+  "uuid": "80fbb573179f414bbbbceaf90462e784",
+  "file_path": "https://cdn.sh-genius.cn/10ed70946d0ebcd5077483fd25c7713f.dcz",
+  "file_md5": "10ed70946d0ebcd5077483fd25c7713f",
+  "title": "普通高中教科书 化学 选择性必修2 物质结构与性质",
+  "cover_path": "https://cdn.sh-genius.cn/cover/80fbb573179f414bbbbceaf90462e784/80fbb573179f414bbbbceaf90462e784.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/80fbb573179f414bbbbceaf90462e784.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "普通高中教科书·化学（选择性必修第二册 物质结构与性质）",
+  "update_time": "2024-09-11 19:53:39",
+  "subject": "HX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TWELFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "12",
+      "grade_level_str": "高三"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "grade": "TWELFTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787547853009",
+  "status": "1",
+  "subject_str": "化学"
+}

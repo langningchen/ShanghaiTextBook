@@ -1,0 +1,35 @@
+{
+  "uuid": "f3091f26f8214700ae29b7556beb8601",
+  "file_path": "https://cdn.sh-genius.cn/c9158218376fa26c4bc22749c30513a0.dcz",
+  "file_md5": "c9158218376fa26c4bc22749c30513a0",
+  "title": "数学 三年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/f3091f26f8214700ae29b7556beb8601/f3091f26f8214700ae29b7556beb8601.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/f3091f26f8214700ae29b7556beb8601.jpg",
+  "is_current_term": 0,
+  "use_year": "2022",
+  "text_start_page": 4,
+  "short_title": "数学（试用本）（三/二）",
+  "update_time": "2023-01-30 10:52:12",
+  "subject": "SX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "THIRD_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "03",
+      "grade_level_str": "三年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "THIRD_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787544480796",
+  "status": "1",
+  "subject_str": "数学"
+}

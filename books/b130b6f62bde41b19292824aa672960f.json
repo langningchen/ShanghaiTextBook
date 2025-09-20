@@ -1,0 +1,35 @@
+{
+  "uuid": "b130b6f62bde41b19292824aa672960f",
+  "file_path": "https://cdn.sh-genius.cn/dab5e042984381f46fbe64a7163e6564.dcz",
+  "file_md5": "dab5e042984381f46fbe64a7163e6564",
+  "title": "义务教育教科书（五·四学制）·艺术·美术 六年级 上册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/b130b6f62bde41b19292824aa672960f/b130b6f62bde41b19292824aa672960f.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/b130b6f62bde41b19292824aa672960f.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 4,
+  "short_title": "义务教育教科书（五·四学制）·艺术·美术（六年级上册）",
+  "update_time": "2024-09-08 21:58:20",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SIXTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "06",
+      "grade_level_str": "六年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHSH",
+  "grade": "SIXTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787547933879",
+  "status": "1",
+  "subject_str": "美术"
+}

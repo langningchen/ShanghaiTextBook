@@ -1,0 +1,35 @@
+{
+  "uuid": "faca20455abd451cacf9f8532b0d6531",
+  "file_path": "https://cdn.sh-genius.cn/5362de76bc5b8377beaa1b817f292c12.dcz",
+  "file_md5": "5362de76bc5b8377beaa1b817f292c12",
+  "title": "数学练习部分 七年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/faca20455abd451cacf9f8532b0d6531/faca20455abd451cacf9f8532b0d6531.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/faca20455abd451cacf9f8532b0d6531.jpg",
+  "is_current_term": 0,
+  "use_year": "2023",
+  "text_start_page": 2,
+  "short_title": "数学练习部分（试用本）（七/一）",
+  "update_time": "2023-08-17 16:27:34",
+  "subject": "SX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "07",
+      "grade_level_str": "七年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "SEVENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787544493338",
+  "status": "1",
+  "subject_str": "数学"
+}

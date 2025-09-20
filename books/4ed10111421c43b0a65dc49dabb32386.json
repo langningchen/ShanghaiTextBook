@@ -1,0 +1,35 @@
+{
+  "uuid": "4ed10111421c43b0a65dc49dabb32386",
+  "file_path": "https://cdn.sh-genius.cn/01a4fcb8ec58af94b2d774d7ea7cc9fc.dcz",
+  "file_md5": "01a4fcb8ec58af94b2d774d7ea7cc9fc",
+  "title": "普通高中教科书 美术 选择性必修4 设计",
+  "cover_path": "https://cdn.sh-genius.cn/cover/4ed10111421c43b0a65dc49dabb32386/4ed10111421c43b0a65dc49dabb32386.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/4ed10111421c43b0a65dc49dabb32386.jpg",
+  "is_current_term": 0,
+  "use_year": "2023",
+  "text_start_page": 4,
+  "short_title": "普通高中教科书·美术（选择性必修4 设计）",
+  "update_time": "2023-08-21 11:11:35",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHSH",
+  "grade": "TENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787547924044",
+  "status": "1",
+  "subject_str": "美术"
+}

@@ -1,0 +1,34 @@
+{
+  "uuid": "40fcaf749ab94d2d91cd063e0edf0656",
+  "file_path": "https://cdn.sh-genius.cn/7a19abb655506b32b0adf9bb9ab4662f.dcz",
+  "file_md5": "7a19abb655506b32b0adf9bb9ab4662f",
+  "title": "普通高中教科书 生物学练习部分 选择性必修3 生物技术与工程",
+  "cover_path": "https://cdn.sh-genius.cn/cover/40fcaf749ab94d2d91cd063e0edf0656/40fcaf749ab94d2d91cd063e0edf0656.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/40fcaf749ab94d2d91cd063e0edf0656.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "普通高中教科书·生物学（选择性必修3 生物技术与工程）练习部分",
+  "update_time": "2024-09-04 11:36:39",
+  "subject": "SW",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "grade": "TENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787547859858",
+  "status": "1",
+  "subject_str": "生物"
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "422cc543bf8d4a9ab9dadaed6a7f3b83",
+  "file_path": "https://cdn.sh-genius.cn/90a67648284902c97aa2b67fdd656dc6.dcz",
+  "file_md5": "90a67648284902c97aa2b67fdd656dc6",
+  "title": "英语（牛津上海版）练习部分 三年级 第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/422cc543bf8d4a9ab9dadaed6a7f3b83/422cc543bf8d4a9ab9dadaed6a7f3b83.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/422cc543bf8d4a9ab9dadaed6a7f3b83.jpg",
+  "is_current_term": 0,
+  "use_year": "2023",
+  "text_start_page": 2,
+  "short_title": "英语（牛津上海版）练习部分（试用本）（三/一）",
+  "update_time": "2023-08-15 15:31:45",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "THIRD_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "03",
+      "grade_level_str": "三年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "THIRD_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787544413671",
+  "status": "1",
+  "subject_str": "英语"
+}

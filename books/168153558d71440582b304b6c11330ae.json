@@ -1,0 +1,35 @@
+{
+  "uuid": "168153558d71440582b304b6c11330ae",
+  "file_path": "https://cdn.sh-genius.cn/364c8f2c29ff7e587a14fb63e3d19dae.dcz",
+  "file_md5": "364c8f2c29ff7e587a14fb63e3d19dae",
+  "title": "普通高中教科书 美术 选择性必修2 中国书画",
+  "cover_path": "https://cdn.sh-genius.cn/cover/168153558d71440582b304b6c11330ae/168153558d71440582b304b6c11330ae.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/168153558d71440582b304b6c11330ae.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 4,
+  "short_title": "普通高中教科书·美术（选择性必修2 中国书画）",
+  "update_time": "2024-09-04 20:56:14",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TWELFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "12",
+      "grade_level_str": "高三"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHSH",
+  "grade": "TWELFTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787547924068",
+  "status": "1",
+  "subject_str": "美术"
+}

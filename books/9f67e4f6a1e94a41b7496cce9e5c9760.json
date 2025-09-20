@@ -1,0 +1,40 @@
+{
+  "uuid": "9f67e4f6a1e94a41b7496cce9e5c9760",
+  "file_path": "https://cdn.sh-genius.cn/d6478222cd403c63632c5fc3519bfca7.dcz",
+  "file_md5": "d6478222cd403c63632c5fc3519bfca7",
+  "title": "劳动技术 八年级（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/9f67e4f6a1e94a41b7496cce9e5c9760/9f67e4f6a1e94a41b7496cce9e5c9760.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/9f67e4f6a1e94a41b7496cce9e5c9760.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "劳动技术（试用本）（八年级）",
+  "update_time": "2024-09-02 15:38:34",
+  "subject": "LD",
+  "used_grade_semesters": [
+    {
+      "grade_level": "EIGHTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        },
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "08",
+      "grade_level_str": "八年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHKJ",
+  "grade": "EIGHTH_GRADE",
+  "term": "ALL",
+  "use_type": "XSYS",
+  "isbn": "9787542873064",
+  "status": "1",
+  "subject_str": "劳动技术"
+}

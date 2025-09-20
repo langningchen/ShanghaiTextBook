@@ -1,0 +1,35 @@
+{
+  "uuid": "97c58f3ff40b4084b8c6f5df71d0ae5d",
+  "file_path": "https://cdn.sh-genius.cn/14427a8b71d7f77842e02ce60c6f7461.dcz",
+  "file_md5": "14427a8b71d7f77842e02ce60c6f7461",
+  "title": "数学练习部分 九年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/97c58f3ff40b4084b8c6f5df71d0ae5d/97c58f3ff40b4084b8c6f5df71d0ae5d.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/97c58f3ff40b4084b8c6f5df71d0ae5d.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 2,
+  "short_title": "数学练习部分（试用本）（九/一）",
+  "update_time": "2024-08-26 13:44:47",
+  "subject": "SX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "NINTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "09",
+      "grade_level_str": "九年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "NINTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787544493420",
+  "status": "1",
+  "subject_str": "数学"
+}

@@ -1,0 +1,40 @@
+{
+  "uuid": "23c01ff953c54e1dbdd86911e2ee82df",
+  "file_path": "https://cdn.sh-genius.cn/9edf401f43e5fe7a1a7811a946c71cf2.dcz",
+  "file_md5": "9edf401f43e5fe7a1a7811a946c71cf2",
+  "title": "“红领巾奖章”争章手册 二年级",
+  "cover_path": "https://cdn.sh-genius.cn/cover/23c01ff953c54e1dbdd86911e2ee82df/23c01ff953c54e1dbdd86911e2ee82df.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/23c01ff953c54e1dbdd86911e2ee82df.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "“红领巾奖章”争章手册（二年级）",
+  "update_time": "2024-09-28 22:43:55",
+  "subject": "QT",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SECOND_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        },
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "02",
+      "grade_level_str": "二年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYY",
+  "grade": "SECOND_GRADE",
+  "term": "ALL",
+  "use_type": "XSYS",
+  "isbn": "9787552329377",
+  "status": "1",
+  "subject_str": "其它"
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "4f65ec1df1c6481987bc32b13745707c",
+  "file_path": "https://cdn.sh-genius.cn/fd64a5cd20ab6f42d807032e13f20823.dcz",
+  "file_md5": "fd64a5cd20ab6f42d807032e13f20823",
+  "title": "化学 九年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/4f65ec1df1c6481987bc32b13745707c/4f65ec1df1c6481987bc32b13745707c.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/4f65ec1df1c6481987bc32b13745707c.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 4,
+  "short_title": "化学（试用本）（九/二）",
+  "update_time": "2025-02-15 10:22:07",
+  "subject": "HX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "NINTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "09",
+      "grade_level_str": "九年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "NINTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787544496582",
+  "status": "1",
+  "subject_str": "化学"
+}

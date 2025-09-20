@@ -1,0 +1,34 @@
+{
+  "uuid": "b928296d25f74cc9b574867d621fd9ac",
+  "file_path": "https://cdn.sh-genius.cn/24519283ee04b5d0a0beb7535c01e6f2.dcz",
+  "file_md5": "24519283ee04b5d0a0beb7535c01e6f2",
+  "title": "普通高中教科书 化学实验部分 必修第一册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/b928296d25f74cc9b574867d621fd9ac/b928296d25f74cc9b574867d621fd9ac.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/b928296d25f74cc9b574867d621fd9ac.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 6,
+  "short_title": "普通高中教科书·化学（必修第一册）实验部分",
+  "update_time": "2025-09-03 17:50:31",
+  "subject": "HX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "grade": "TENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "SYC",
+  "isbn": "9787547850039",
+  "status": "1",
+  "subject_str": "化学"
+}

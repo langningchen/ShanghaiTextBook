@@ -1,0 +1,35 @@
+{
+  "uuid": "527d3be2ead04916b648f46fec23acdb",
+  "file_path": "https://cdn.sh-genius.cn/6a3e50d368e9ff08ffa8fe0b34ee0f65.dcz",
+  "file_md5": "6a3e50d368e9ff08ffa8fe0b34ee0f65",
+  "title": "普通高中教科书 音乐 选择性必修6 视唱练耳",
+  "cover_path": "https://cdn.sh-genius.cn/cover/527d3be2ead04916b648f46fec23acdb/527d3be2ead04916b648f46fec23acdb.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/527d3be2ead04916b648f46fec23acdb.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 8,
+  "short_title": "普通高中教科书·音乐（选择性必修6 视唱练耳）",
+  "update_time": "2024-09-23 11:51:51",
+  "subject": "YU",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TWELFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "12",
+      "grade_level_str": "高三"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYY",
+  "grade": "TWELFTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787552319897",
+  "status": "1",
+  "subject_str": "音乐"
+}

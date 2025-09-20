@@ -1,0 +1,35 @@
+{
+  "uuid": "8e684757e9f645b59756736ee16aa2a8",
+  "file_path": "https://cdn.sh-genius.cn/171538423aa75b00e63bd7627d72ca91.dcz",
+  "file_md5": "171538423aa75b00e63bd7627d72ca91",
+  "title": "数学 八年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/8e684757e9f645b59756736ee16aa2a8/8e684757e9f645b59756736ee16aa2a8.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/8e684757e9f645b59756736ee16aa2a8.jpg",
+  "is_current_term": 0,
+  "use_year": "2022",
+  "text_start_page": 4,
+  "short_title": "数学（试用本）（八/二）",
+  "update_time": "2023-01-30 14:35:50",
+  "subject": "SX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "EIGHTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "08",
+      "grade_level_str": "八年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "EIGHTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787544496421",
+  "status": "1",
+  "subject_str": "数学"
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "14d740772f2d439eb1146121c308e8b2",
+  "file_path": "https://cdn.sh-genius.cn/6a40d38af481b2277249919e58b3ec39.dcz",
+  "file_md5": "6a40d38af481b2277249919e58b3ec39",
+  "title": "普通高中教科书 体育与健康 必修 全一册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/14d740772f2d439eb1146121c308e8b2/14d740772f2d439eb1146121c308e8b2.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/14d740772f2d439eb1146121c308e8b2.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 8,
+  "short_title": "普通高中教科书·体育与健康（必修全一册）",
+  "update_time": "2024-08-26 20:42:11",
+  "subject": "TY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "TENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787572011054",
+  "status": "1",
+  "subject_str": "体育"
+}

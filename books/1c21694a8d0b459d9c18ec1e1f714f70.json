@@ -1,0 +1,35 @@
+{
+  "uuid": "1c21694a8d0b459d9c18ec1e1f714f70",
+  "file_path": "https://cdn.sh-genius.cn/bcff3a28e130e81783a2297db9aedba5.dcz",
+  "file_md5": "bcff3a28e130e81783a2297db9aedba5",
+  "title": "义务教育教科书（五·四学制） 英语 六年级 上册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/1c21694a8d0b459d9c18ec1e1f714f70/1c21694a8d0b459d9c18ec1e1f714f70.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/1c21694a8d0b459d9c18ec1e1f714f70.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 10,
+  "short_title": "义务教育教科书（五·四学制）·英语（六年级上册）",
+  "update_time": "2025-08-14 14:14:13",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SIXTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "06",
+      "grade_level_str": "六年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "SIXTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787572028113",
+  "status": "1",
+  "subject_str": "英语"
+}

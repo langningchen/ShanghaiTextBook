@@ -1,0 +1,35 @@
+{
+  "uuid": "e7b14678c760491e97867d0177b1eab9",
+  "file_path": "https://cdn.sh-genius.cn/37f05d748b0994d9f034523752fbbd7a.dcz",
+  "file_md5": "37f05d748b0994d9f034523752fbbd7a",
+  "title": "音乐 五年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/e7b14678c760491e97867d0177b1eab9/e7b14678c760491e97867d0177b1eab9.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/e7b14678c760491e97867d0177b1eab9.jpg",
+  "is_current_term": 0,
+  "use_year": "2022",
+  "text_start_page": 2,
+  "short_title": "音乐（试用本）（五/一）",
+  "update_time": "2022-09-16 15:35:55",
+  "subject": "YU",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FIFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "05",
+      "grade_level_str": "五年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYY",
+  "grade": "FIFTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787552318470",
+  "status": "1",
+  "subject_str": "音乐"
+}

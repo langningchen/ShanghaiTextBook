@@ -1,0 +1,34 @@
+{
+  "uuid": "fd22f5b91e1c4eff9343c41da5ba20d7",
+  "file_path": "https://cdn.sh-genius.cn/ff0ae7bcf353b9d7da03de2609f83521.dcz",
+  "file_md5": "ff0ae7bcf353b9d7da03de2609f83521",
+  "title": "普通高中教科书 物理练习部分 选择性必修 第一册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/fd22f5b91e1c4eff9343c41da5ba20d7/fd22f5b91e1c4eff9343c41da5ba20d7.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/fd22f5b91e1c4eff9343c41da5ba20d7.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "普通高中教科书·物理（选择性必修第一册）练习部分",
+  "update_time": "2025-02-20 19:13:33",
+  "subject": "WL",
+  "used_grade_semesters": [
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "grade": "ELEVENTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787547859766",
+  "status": "1",
+  "subject_str": "物理"
+}

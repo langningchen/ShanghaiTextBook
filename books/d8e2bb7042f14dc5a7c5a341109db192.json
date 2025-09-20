@@ -1,0 +1,35 @@
+{
+  "uuid": "d8e2bb7042f14dc5a7c5a341109db192",
+  "file_path": "https://cdn.sh-genius.cn/9c42d4368d0a36e42624192e565e2210.dcz",
+  "file_md5": "9c42d4368d0a36e42624192e565e2210",
+  "title": "自然活动部分 四年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/d8e2bb7042f14dc5a7c5a341109db192/d8e2bb7042f14dc5a7c5a341109db192.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/d8e2bb7042f14dc5a7c5a341109db192.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 4,
+  "short_title": "自然活动部分（试用本）（四/一）",
+  "update_time": "2024-09-04 17:22:13",
+  "subject": "ZR",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FOURTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "04",
+      "grade_level_str": "四年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYD",
+  "grade": "FOURTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "HDSC",
+  "isbn": "9787806618523",
+  "status": "1",
+  "subject_str": "自然"
+}

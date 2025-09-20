@@ -1,0 +1,35 @@
+{
+  "uuid": "9bde73bf9e8e477a80d54a4bfa3f3811",
+  "file_path": "https://cdn.sh-genius.cn/49fa9b0895ac3513de22a881459a13ee.dcz",
+  "file_md5": "49fa9b0895ac3513de22a881459a13ee",
+  "title": "普通高中教科书 音乐 必修6 音乐与戏剧",
+  "cover_path": "https://cdn.sh-genius.cn/cover/9bde73bf9e8e477a80d54a4bfa3f3811/9bde73bf9e8e477a80d54a4bfa3f3811.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/9bde73bf9e8e477a80d54a4bfa3f3811.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 10,
+  "short_title": "普通高中教科书·音乐（必修6 音乐与戏剧）",
+  "update_time": "2025-03-20 14:01:17",
+  "subject": "YU",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYY",
+  "grade": "TENTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787552319835",
+  "status": "1",
+  "subject_str": "音乐"
+}

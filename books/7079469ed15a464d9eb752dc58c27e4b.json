@@ -1,0 +1,35 @@
+{
+  "uuid": "7079469ed15a464d9eb752dc58c27e4b",
+  "file_path": "https://cdn.sh-genius.cn/5a9843ce2d50b270f212c0aaf2c41d66.dcz",
+  "file_md5": "5a9843ce2d50b270f212c0aaf2c41d66",
+  "title": "音乐 三年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/7079469ed15a464d9eb752dc58c27e4b/7079469ed15a464d9eb752dc58c27e4b.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/7079469ed15a464d9eb752dc58c27e4b.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 2,
+  "short_title": "音乐（试用本）（三/二）",
+  "update_time": "2025-03-20 14:22:43",
+  "subject": "YU",
+  "used_grade_semesters": [
+    {
+      "grade_level": "THIRD_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "03",
+      "grade_level_str": "三年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYY",
+  "grade": "THIRD_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787552318722",
+  "status": "1",
+  "subject_str": "音乐"
+}

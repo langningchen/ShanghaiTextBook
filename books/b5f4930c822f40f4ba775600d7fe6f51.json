@@ -1,0 +1,35 @@
+{
+  "uuid": "b5f4930c822f40f4ba775600d7fe6f51",
+  "file_path": "https://cdn.sh-genius.cn/20a1ca0546bc60fd56587b069af3fa57.dcz",
+  "file_md5": "20a1ca0546bc60fd56587b069af3fa57",
+  "title": "化学练习部分 九年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/b5f4930c822f40f4ba775600d7fe6f51/b5f4930c822f40f4ba775600d7fe6f51.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/b5f4930c822f40f4ba775600d7fe6f51.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 4,
+  "short_title": "化学练习部分（试用本）（九/一）",
+  "update_time": "2024-08-26 13:44:59",
+  "subject": "HX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "NINTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "09",
+      "grade_level_str": "九年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "NINTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787544492935",
+  "status": "1",
+  "subject_str": "化学"
+}

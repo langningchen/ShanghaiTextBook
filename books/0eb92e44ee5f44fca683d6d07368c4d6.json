@@ -1,0 +1,35 @@
+{
+  "uuid": "0eb92e44ee5f44fca683d6d07368c4d6",
+  "file_path": "https://cdn.sh-genius.cn/d369eb458d8b301b8533ba622269e65e.dcz",
+  "file_md5": "d369eb458d8b301b8533ba622269e65e",
+  "title": "数学 五年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/0eb92e44ee5f44fca683d6d07368c4d6/0eb92e44ee5f44fca683d6d07368c4d6.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/0eb92e44ee5f44fca683d6d07368c4d6.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 4,
+  "short_title": "数学（试用本）（五/二）",
+  "update_time": "2025-02-15 07:07:59",
+  "subject": "SX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FIFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "05",
+      "grade_level_str": "五年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "FIFTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787544480819",
+  "status": "1",
+  "subject_str": "数学"
+}

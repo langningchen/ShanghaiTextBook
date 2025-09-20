@@ -1,0 +1,40 @@
+{
+  "uuid": "651f6cc4f1c04817b83cdb6a82c29408",
+  "file_path": "https://cdn.sh-genius.cn/e52c241dac9dbc00df3262edb59b2f2c.dcz",
+  "file_md5": "e52c241dac9dbc00df3262edb59b2f2c",
+  "title": "“红领巾奖章”争章手册 八年级",
+  "cover_path": "https://cdn.sh-genius.cn/cover/651f6cc4f1c04817b83cdb6a82c29408/651f6cc4f1c04817b83cdb6a82c29408.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/651f6cc4f1c04817b83cdb6a82c29408.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "“红领巾奖章”争章手册（八年级）",
+  "update_time": "2024-09-28 22:43:51",
+  "subject": "QT",
+  "used_grade_semesters": [
+    {
+      "grade_level": "EIGHTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        },
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "08",
+      "grade_level_str": "八年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYY",
+  "grade": "EIGHTH_GRADE",
+  "term": "ALL",
+  "use_type": "XSYS",
+  "isbn": "9787552329438",
+  "status": "1",
+  "subject_str": "其它"
+}

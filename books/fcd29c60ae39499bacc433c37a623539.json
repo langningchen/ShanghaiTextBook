@@ -1,0 +1,35 @@
+{
+  "uuid": "fcd29c60ae39499bacc433c37a623539",
+  "file_path": "https://cdn.sh-genius.cn/d86a1b1a4960c7ab1ab3c3894682f83e.dcz",
+  "file_md5": "d86a1b1a4960c7ab1ab3c3894682f83e",
+  "title": "普通高中教科书 艺术 必修2 艺术与文化（下册）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/fcd29c60ae39499bacc433c37a623539/fcd29c60ae39499bacc433c37a623539.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/fcd29c60ae39499bacc433c37a623539.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "普通高中教科书·艺术（必修2 艺术与文化）（下册）",
+  "update_time": "2024-08-26 23:28:55",
+  "subject": "YS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TWELFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "12",
+      "grade_level_str": "高三"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "TWELFTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787572006623",
+  "status": "1",
+  "subject_str": "艺术"
+}

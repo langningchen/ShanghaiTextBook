@@ -1,0 +1,35 @@
+{
+  "uuid": "cb17c398159242d8974defc50c25d0a3",
+  "file_path": "https://cdn.sh-genius.cn/c4e1cf89e4286ccf44273ab2b017246f.dcz",
+  "file_md5": "c4e1cf89e4286ccf44273ab2b017246f",
+  "title": "自然 四年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/cb17c398159242d8974defc50c25d0a3/cb17c398159242d8974defc50c25d0a3.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/cb17c398159242d8974defc50c25d0a3.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 2,
+  "short_title": "自然（试用本）（四/一）",
+  "update_time": "2024-09-04 17:22:14",
+  "subject": "ZR",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FOURTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "04",
+      "grade_level_str": "四年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYD",
+  "grade": "FOURTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787806618523",
+  "status": "1",
+  "subject_str": "自然"
+}

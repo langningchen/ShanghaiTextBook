@@ -1,0 +1,35 @@
+{
+  "uuid": "880658f11f83447b9914e9c9f2a0fa9a",
+  "file_path": "https://cdn.sh-genius.cn/b6950185469ca2063d359e24f0a19ac5.dcz",
+  "file_md5": "b6950185469ca2063d359e24f0a19ac5",
+  "title": "生命科学练习部分 初中第二册（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/880658f11f83447b9914e9c9f2a0fa9a/880658f11f83447b9914e9c9f2a0fa9a.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/880658f11f83447b9914e9c9f2a0fa9a.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 4,
+  "short_title": "生命科学练习部分（试用本）（第二册）",
+  "update_time": "2025-02-15 10:04:38",
+  "subject": "SM",
+  "used_grade_semesters": [
+    {
+      "grade_level": "EIGHTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "08",
+      "grade_level_str": "八年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "EIGHTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787544496391",
+  "status": "1",
+  "subject_str": "生命科学"
+}

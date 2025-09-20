@@ -1,0 +1,35 @@
+{
+  "uuid": "288670418aa941d98998f9835e029bb8",
+  "file_path": "https://cdn.sh-genius.cn/a05bb4d6c63086d8cc0b7fcf24ef7359.dcz",
+  "file_md5": "a05bb4d6c63086d8cc0b7fcf24ef7359",
+  "title": "英语（牛津上海版） 八年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/288670418aa941d98998f9835e029bb8/288670418aa941d98998f9835e029bb8.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/288670418aa941d98998f9835e029bb8.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "英语（牛津上海版）（试用本）（八/一）",
+  "update_time": "2024-09-19 09:59:53",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "EIGHTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "08",
+      "grade_level_str": "八年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "EIGHTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787544407663",
+  "status": "1",
+  "subject_str": "英语"
+}

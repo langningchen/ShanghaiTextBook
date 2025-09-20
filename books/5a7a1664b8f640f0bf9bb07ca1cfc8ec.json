@@ -1,0 +1,35 @@
+{
+  "uuid": "5a7a1664b8f640f0bf9bb07ca1cfc8ec",
+  "file_path": "https://cdn.sh-genius.cn/0fb560efe2553af0454613032c60c0ae.dcz",
+  "file_md5": "0fb560efe2553af0454613032c60c0ae",
+  "title": "自然 四年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/5a7a1664b8f640f0bf9bb07ca1cfc8ec/5a7a1664b8f640f0bf9bb07ca1cfc8ec.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/5a7a1664b8f640f0bf9bb07ca1cfc8ec.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 2,
+  "short_title": "自然（试用本）（四/二）",
+  "update_time": "2025-02-14 19:26:48",
+  "subject": "ZR",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FOURTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "04",
+      "grade_level_str": "四年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYD",
+  "grade": "FOURTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787806616871",
+  "status": "1",
+  "subject_str": "自然"
+}

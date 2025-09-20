@@ -1,0 +1,35 @@
+{
+  "uuid": "e9674a4dca974b118c882dace1cbb8c9",
+  "file_path": "https://cdn.sh-genius.cn/a33d441f8cd9002391dbf74a7def4f58.dcz",
+  "file_md5": "a33d441f8cd9002391dbf74a7def4f58",
+  "title": "音乐 四年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/e9674a4dca974b118c882dace1cbb8c9/e9674a4dca974b118c882dace1cbb8c9.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/e9674a4dca974b118c882dace1cbb8c9.jpg",
+  "is_current_term": 0,
+  "use_year": "2022",
+  "text_start_page": 2,
+  "short_title": "音乐（试用本）（四/一）",
+  "update_time": "2022-09-16 15:35:58",
+  "subject": "YU",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FOURTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "04",
+      "grade_level_str": "四年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYY",
+  "grade": "FOURTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787552318463",
+  "status": "1",
+  "subject_str": "音乐"
+}

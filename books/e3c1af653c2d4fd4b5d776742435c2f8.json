@@ -1,0 +1,35 @@
+{
+  "uuid": "e3c1af653c2d4fd4b5d776742435c2f8",
+  "file_path": "https://cdn.sh-genius.cn/e222119275d59646b72f6d90a2db8323.dcz",
+  "file_md5": "e222119275d59646b72f6d90a2db8323",
+  "title": "科学与技术活动记录 二年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/e3c1af653c2d4fd4b5d776742435c2f8/e3c1af653c2d4fd4b5d776742435c2f8.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/e3c1af653c2d4fd4b5d776742435c2f8.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 2,
+  "short_title": "科学与技术 活动记录 （试用本）（二/二）",
+  "update_time": "2025-02-15 07:25:24",
+  "subject": "KJ",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SECOND_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "02",
+      "grade_level_str": "二年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "SECOND_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "HDSC",
+  "isbn": "9787544460163",
+  "status": "1",
+  "subject_str": "科学与技术"
+}

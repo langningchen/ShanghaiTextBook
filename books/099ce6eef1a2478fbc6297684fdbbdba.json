@@ -1,0 +1,35 @@
+{
+  "uuid": "099ce6eef1a2478fbc6297684fdbbdba",
+  "file_path": "https://cdn.sh-genius.cn/2a387ffd329c832cd2811a354ea1da4c.dcz",
+  "file_md5": "2a387ffd329c832cd2811a354ea1da4c",
+  "title": "英语（牛津上海版） 三年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/099ce6eef1a2478fbc6297684fdbbdba/099ce6eef1a2478fbc6297684fdbbdba.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/099ce6eef1a2478fbc6297684fdbbdba.jpg",
+  "is_current_term": 0,
+  "use_year": "2022",
+  "text_start_page": 6,
+  "short_title": "英语（牛津上海版）（试用本）（三/一）",
+  "update_time": "2022-08-26 18:26:31",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "THIRD_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "03",
+      "grade_level_str": "三年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "THIRD_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787544413664",
+  "status": "1",
+  "subject_str": "英语"
+}

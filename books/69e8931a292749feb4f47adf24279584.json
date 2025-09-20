@@ -1,0 +1,35 @@
+{
+  "uuid": "69e8931a292749feb4f47adf24279584",
+  "file_path": "https://cdn.sh-genius.cn/0a96f4a8e295d73b73f2419857ca61b2.dcz",
+  "file_md5": "0a96f4a8e295d73b73f2419857ca61b2",
+  "title": "普通高中教科书 美术 选择性必修5 工艺",
+  "cover_path": "https://cdn.sh-genius.cn/cover/69e8931a292749feb4f47adf24279584/69e8931a292749feb4f47adf24279584.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/69e8931a292749feb4f47adf24279584.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 4,
+  "short_title": "普通高中教科书·美术（选择性必修5 工艺）",
+  "update_time": "2024-09-04 20:33:07",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHSH",
+  "grade": "ELEVENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787547924013",
+  "status": "1",
+  "subject_str": "美术"
+}

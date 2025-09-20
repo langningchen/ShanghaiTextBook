@@ -1,0 +1,35 @@
+{
+  "uuid": "7ee70caaf03d491f89e0972b2b86bda4",
+  "file_path": "https://cdn.sh-genius.cn/e4f8840528f157c52b37fcb924709a87.dcz",
+  "file_md5": "e4f8840528f157c52b37fcb924709a87",
+  "title": "普通高中教科书 音乐 必修3 演奏",
+  "cover_path": "https://cdn.sh-genius.cn/cover/7ee70caaf03d491f89e0972b2b86bda4/7ee70caaf03d491f89e0972b2b86bda4.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/7ee70caaf03d491f89e0972b2b86bda4.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 8,
+  "short_title": "普通高中教科书·音乐（必修3 演奏）",
+  "update_time": "2024-09-23 13:52:02",
+  "subject": "YU",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYY",
+  "grade": "TENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787552319804",
+  "status": "1",
+  "subject_str": "音乐"
+}

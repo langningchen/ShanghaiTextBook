@@ -1,0 +1,40 @@
+{
+  "uuid": "4af2e336467e480dacf95d4c4a8f6c1c",
+  "file_path": "https://cdn.sh-genius.cn/8e4b351b6ce9452421bd40f723059ece.dcz",
+  "file_md5": "8e4b351b6ce9452421bd40f723059ece",
+  "title": "数学 九年级 拓展Ⅱ（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/4af2e336467e480dacf95d4c4a8f6c1c/4af2e336467e480dacf95d4c4a8f6c1c.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/4af2e336467e480dacf95d4c4a8f6c1c.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 4,
+  "short_title": "数学（拓展Ⅱ）（试用本）（九年级）",
+  "update_time": "2025-08-18 17:16:31",
+  "subject": "SX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "NINTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        },
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "09",
+      "grade_level_str": "九年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "NINTH_GRADE",
+  "term": "ALL",
+  "use_type": "XSYS",
+  "isbn": "9787544493307",
+  "status": "1",
+  "subject_str": "数学"
+}

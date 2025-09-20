@@ -1,0 +1,35 @@
+{
+  "uuid": "f7d91e20fb164763b5dfad27e3f0623e",
+  "file_path": "https://cdn.sh-genius.cn/95de57f355c169bcb6243b7a55a4fc0d.dcz",
+  "file_md5": "95de57f355c169bcb6243b7a55a4fc0d",
+  "title": "普通高中教科书 地理练习部分 选择性必修2 区域发展",
+  "cover_path": "https://cdn.sh-genius.cn/cover/f7d91e20fb164763b5dfad27e3f0623e/f7d91e20fb164763b5dfad27e3f0623e.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/f7d91e20fb164763b5dfad27e3f0623e.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "普通高中教科书·地理（选择性必修第二册 区域发展）练习部分",
+  "update_time": "2024-08-27 08:15:11",
+  "subject": "DL",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "ZHDT",
+  "grade": "TENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787558804267",
+  "status": "1",
+  "subject_str": "地理"
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "288b98745d73405f8b55b8fc0ceb6b5c",
+  "file_path": "https://cdn.sh-genius.cn/d72e5787a28f27b21fe77ce355bda023.dcz",
+  "file_md5": "d72e5787a28f27b21fe77ce355bda023",
+  "title": "劳动技术 五年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/288b98745d73405f8b55b8fc0ceb6b5c/288b98745d73405f8b55b8fc0ceb6b5c.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/288b98745d73405f8b55b8fc0ceb6b5c.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 6,
+  "short_title": "劳动技术（试用本）（五/一）",
+  "update_time": "2025-08-06 14:44:31",
+  "subject": "LD",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FIFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "05",
+      "grade_level_str": "五年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHKJ",
+  "grade": "FIFTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787542871015",
+  "status": "1",
+  "subject_str": "劳动技术"
+}

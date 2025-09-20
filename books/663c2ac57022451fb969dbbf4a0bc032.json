@@ -1,0 +1,35 @@
+{
+  "uuid": "663c2ac57022451fb969dbbf4a0bc032",
+  "file_path": "https://cdn.sh-genius.cn/8d80b3a7ea170e1080b4e7b140dc0422.dcz",
+  "file_md5": "8d80b3a7ea170e1080b4e7b140dc0422",
+  "title": "科学与技术 二年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/663c2ac57022451fb969dbbf4a0bc032/663c2ac57022451fb969dbbf4a0bc032.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/663c2ac57022451fb969dbbf4a0bc032.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "科学与技术（试用本）（二/二）",
+  "update_time": "2025-02-15 07:25:48",
+  "subject": "KJ",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SECOND_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "02",
+      "grade_level_str": "二年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "SECOND_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787544460163",
+  "status": "1",
+  "subject_str": "科学与技术"
+}

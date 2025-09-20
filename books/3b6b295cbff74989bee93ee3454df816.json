@@ -1,0 +1,40 @@
+{
+  "uuid": "3b6b295cbff74989bee93ee3454df816",
+  "file_path": "https://cdn.sh-genius.cn/a2bdba555d895e66c36c5bcc436693ad.dcz",
+  "file_md5": "a2bdba555d895e66c36c5bcc436693ad",
+  "title": "上海市学生成长记录册（小学三年级）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/3b6b295cbff74989bee93ee3454df816/3b6b295cbff74989bee93ee3454df816.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/3b6b295cbff74989bee93ee3454df816.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "上海市学生成长记录册（小学三年级）",
+  "update_time": "2024-09-23 23:12:48",
+  "subject": "QT",
+  "used_grade_semesters": [
+    {
+      "grade_level": "THIRD_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        },
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "03",
+      "grade_level_str": "三年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "HDSD",
+  "grade": "THIRD_GRADE",
+  "term": "ALL",
+  "use_type": "XSYS",
+  "isbn": "9787567594012",
+  "status": "1",
+  "subject_str": "其它"
+}

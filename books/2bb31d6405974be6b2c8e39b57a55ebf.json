@@ -1,0 +1,35 @@
+{
+  "uuid": "2bb31d6405974be6b2c8e39b57a55ebf",
+  "file_path": "https://cdn.sh-genius.cn/0462f42696141a4c1120f1db8c8a1b4a.dcz",
+  "file_md5": "0462f42696141a4c1120f1db8c8a1b4a",
+  "title": "普通高中教科书 英语 选择性必修第二册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/2bb31d6405974be6b2c8e39b57a55ebf/2bb31d6405974be6b2c8e39b57a55ebf.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/2bb31d6405974be6b2c8e39b57a55ebf.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 8,
+  "short_title": "普通高中教科书·英语（选择性必修第二册）",
+  "update_time": "2025-07-28 19:35:43",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHWJ",
+  "grade": "ELEVENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787544664011",
+  "status": "1",
+  "subject_str": "英语"
+}

@@ -1,0 +1,34 @@
+{
+  "uuid": "160fa508713d48c884ced8d3e0ad4e1f",
+  "file_path": "https://cdn.sh-genius.cn/c7b6ae681dd9615fe5c3ebe3eeb07adc.dcz",
+  "file_md5": "c7b6ae681dd9615fe5c3ebe3eeb07adc",
+  "title": "普通高中教科书 生物学练习部分 选择性必修2 生物与环境",
+  "cover_path": "https://cdn.sh-genius.cn/cover/160fa508713d48c884ced8d3e0ad4e1f/160fa508713d48c884ced8d3e0ad4e1f.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/160fa508713d48c884ced8d3e0ad4e1f.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "普通高中教科书·生物学（选择性必修2 生物与环境）练习部分",
+  "update_time": "2024-09-04 12:32:42",
+  "subject": "SW",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TWELFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "12",
+      "grade_level_str": "高三"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "grade": "TWELFTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787547856895",
+  "status": "1",
+  "subject_str": "生物"
+}

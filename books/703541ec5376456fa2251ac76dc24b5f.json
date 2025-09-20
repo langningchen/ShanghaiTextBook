@@ -1,0 +1,34 @@
+{
+  "uuid": "703541ec5376456fa2251ac76dc24b5f",
+  "file_path": "https://cdn.sh-genius.cn/d39487656d01439ed6fbb8bcd403befa.dcz",
+  "file_md5": "d39487656d01439ed6fbb8bcd403befa",
+  "title": "普通高中教科书 物理练习部分 选择性必修 第二册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/703541ec5376456fa2251ac76dc24b5f/703541ec5376456fa2251ac76dc24b5f.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/703541ec5376456fa2251ac76dc24b5f.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "普通高中教科书·物理（选择性必修第二册）练习部分",
+  "update_time": "2024-09-04 12:16:02",
+  "subject": "WL",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TWELFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "12",
+      "grade_level_str": "高三"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "grade": "TWELFTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787547861998",
+  "status": "1",
+  "subject_str": "物理"
+}

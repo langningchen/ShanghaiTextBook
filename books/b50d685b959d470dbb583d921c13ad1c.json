@@ -1,0 +1,35 @@
+{
+  "uuid": "b50d685b959d470dbb583d921c13ad1c",
+  "file_path": "https://cdn.sh-genius.cn/830171207c82b487fb7246ac644bf16b.dcz",
+  "file_md5": "830171207c82b487fb7246ac644bf16b",
+  "title": "普通高中教科书 数学 必修 第四册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/b50d685b959d470dbb583d921c13ad1c/b50d685b959d470dbb583d921c13ad1c.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/b50d685b959d470dbb583d921c13ad1c.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 8,
+  "short_title": "普通高中教科书·数学（必修第四册）",
+  "update_time": "2025-08-18 18:00:49",
+  "subject": "SX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "ELEVENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787572002953",
+  "status": "1",
+  "subject_str": "数学"
+}

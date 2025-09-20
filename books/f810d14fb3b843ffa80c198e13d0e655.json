@@ -1,0 +1,35 @@
+{
+  "uuid": "f810d14fb3b843ffa80c198e13d0e655",
+  "file_path": "https://cdn.sh-genius.cn/0974e90ce838d498d1704e7feae5f2d0.dcz",
+  "file_md5": "0974e90ce838d498d1704e7feae5f2d0",
+  "title": "数学练习部分 八年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/f810d14fb3b843ffa80c198e13d0e655/f810d14fb3b843ffa80c198e13d0e655.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/f810d14fb3b843ffa80c198e13d0e655.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 2,
+  "short_title": "数学练习部分（试用本）（八/二）",
+  "update_time": "2025-02-15 08:32:47",
+  "subject": "SX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "EIGHTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "08",
+      "grade_level_str": "八年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "EIGHTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787544496469",
+  "status": "1",
+  "subject_str": "数学"
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "f1773065c678451c83f6b30bef79e933",
+  "file_path": "https://cdn.sh-genius.cn/19cf8efdc22836b0953f8c7a49b8d18f.dcz",
+  "file_md5": "19cf8efdc22836b0953f8c7a49b8d18f",
+  "title": "普通高中教科书 艺术 选择性必修1 美术创意实践",
+  "cover_path": "https://cdn.sh-genius.cn/cover/f1773065c678451c83f6b30bef79e933/f1773065c678451c83f6b30bef79e933.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/f1773065c678451c83f6b30bef79e933.jpg",
+  "is_current_term": 0,
+  "use_year": "2023",
+  "text_start_page": 6,
+  "short_title": "普通高中教科书·艺术（选择性必修1 美术创意实践）",
+  "update_time": "2023-08-21 10:45:43",
+  "subject": "YS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "TENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787572006722",
+  "status": "1",
+  "subject_str": "艺术"
+}

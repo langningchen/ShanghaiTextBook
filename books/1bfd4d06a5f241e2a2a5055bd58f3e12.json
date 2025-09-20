@@ -1,0 +1,35 @@
+{
+  "uuid": "1bfd4d06a5f241e2a2a5055bd58f3e12",
+  "file_path": "https://cdn.sh-genius.cn/f11aa21a3da3543c7fbf763f15e53c8b.dcz",
+  "file_md5": "f11aa21a3da3543c7fbf763f15e53c8b",
+  "title": "数学练习部分 四年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/1bfd4d06a5f241e2a2a5055bd58f3e12/1bfd4d06a5f241e2a2a5055bd58f3e12.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/1bfd4d06a5f241e2a2a5055bd58f3e12.jpg",
+  "is_current_term": 0,
+  "use_year": "2023",
+  "text_start_page": 2,
+  "short_title": "数学练习部分（试用本）（四/一）",
+  "update_time": "2023-08-17 09:27:31",
+  "subject": "SX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FOURTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "04",
+      "grade_level_str": "四年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "FOURTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787544476881",
+  "status": "1",
+  "subject_str": "数学"
+}

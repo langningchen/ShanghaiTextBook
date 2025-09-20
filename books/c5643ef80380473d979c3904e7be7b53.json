@@ -1,0 +1,35 @@
+{
+  "uuid": "c5643ef80380473d979c3904e7be7b53",
+  "file_path": "https://cdn.sh-genius.cn/cdb621355ec9d109191d7b411ef5da7d.dcz",
+  "file_md5": "cdb621355ec9d109191d7b411ef5da7d",
+  "title": "普通高中教科书 音乐 必修2 歌唱",
+  "cover_path": "https://cdn.sh-genius.cn/cover/c5643ef80380473d979c3904e7be7b53/c5643ef80380473d979c3904e7be7b53.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/c5643ef80380473d979c3904e7be7b53.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 8,
+  "short_title": "普通高中教科书·音乐（必修2 歌唱）",
+  "update_time": "2025-03-20 14:01:37",
+  "subject": "YU",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYY",
+  "grade": "TENTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787552319798",
+  "status": "1",
+  "subject_str": "音乐"
+}

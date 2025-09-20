@@ -1,0 +1,35 @@
+{
+  "uuid": "2a6edfad8f8a4dd2bc88a0f91c403a71",
+  "file_path": "https://cdn.sh-genius.cn/707cc806523512c0240999a0d38eccfb.dcz",
+  "file_md5": "707cc806523512c0240999a0d38eccfb",
+  "title": "自然活动部分 四年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/2a6edfad8f8a4dd2bc88a0f91c403a71/2a6edfad8f8a4dd2bc88a0f91c403a71.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/2a6edfad8f8a4dd2bc88a0f91c403a71.jpg",
+  "is_current_term": 0,
+  "use_year": "2022",
+  "text_start_page": 4,
+  "short_title": "自然活动部分（试用本）（四/二）",
+  "update_time": "2023-02-10 18:44:30",
+  "subject": "ZR",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FOURTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "04",
+      "grade_level_str": "四年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYD",
+  "grade": "FOURTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "HDSC",
+  "isbn": "9787806616871",
+  "status": "1",
+  "subject_str": "自然"
+}

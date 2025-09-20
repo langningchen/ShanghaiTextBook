@@ -1,0 +1,35 @@
+{
+  "uuid": "9cba86d8fa7146468b7529ec6ad6ce36",
+  "file_path": "https://cdn.sh-genius.cn/c6ef8316041a0f7879303c86229359d3.dcz",
+  "file_md5": "c6ef8316041a0f7879303c86229359d3",
+  "title": "义务教育教科书（五·四学制） 英语练习部分 七年级 上册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/9cba86d8fa7146468b7529ec6ad6ce36/9cba86d8fa7146468b7529ec6ad6ce36.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/9cba86d8fa7146468b7529ec6ad6ce36.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 6,
+  "short_title": "义务教育教科书（五·四学制）·英语练习部分（七年级上册）",
+  "update_time": "2025-08-14 14:13:39",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "07",
+      "grade_level_str": "七年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "SEVENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787572028144",
+  "status": "1",
+  "subject_str": "英语"
+}

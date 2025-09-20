@@ -1,0 +1,35 @@
+{
+  "uuid": "e0d8fc54880b47109db951f13009c37e",
+  "file_path": "https://cdn.sh-genius.cn/cdd2a69abce78aabe7d5d0fe45a5567b.dcz",
+  "file_md5": "cdd2a69abce78aabe7d5d0fe45a5567b",
+  "title": "数学 四年级 第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/e0d8fc54880b47109db951f13009c37e/e0d8fc54880b47109db951f13009c37e.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/e0d8fc54880b47109db951f13009c37e.jpg",
+  "is_current_term": 0,
+  "use_year": "2020",
+  "text_start_page": 4,
+  "short_title": "数学（试用本）（四/二）",
+  "update_time": "2021-02-19 10:59:11",
+  "subject": "SX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FOURTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "04",
+      "grade_level_str": "四年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "FOURTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787544480802",
+  "status": "1",
+  "subject_str": "数学"
+}

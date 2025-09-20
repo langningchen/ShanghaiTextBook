@@ -1,0 +1,35 @@
+{
+  "uuid": "ff3341986d714104b5d0d6bea1a1b5bc",
+  "file_path": "https://cdn.sh-genius.cn/692dec4831a678acc2ce8a4fbeb33f65.dcz",
+  "file_md5": "692dec4831a678acc2ce8a4fbeb33f65",
+  "title": "普通高中教科书 地理图册 选择性必修2 自然地理基础",
+  "cover_path": "https://cdn.sh-genius.cn/cover/ff3341986d714104b5d0d6bea1a1b5bc/ff3341986d714104b5d0d6bea1a1b5bc.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/ff3341986d714104b5d0d6bea1a1b5bc.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 4,
+  "short_title": "普通高中教科书·地理图册（选择性必修第一册 自然地理基础）",
+  "update_time": "2024-08-27 08:15:02",
+  "subject": "DL",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "ZGDT",
+  "grade": "TENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787558803215",
+  "status": "1",
+  "subject_str": "地理"
+}

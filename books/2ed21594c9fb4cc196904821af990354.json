@@ -1,0 +1,35 @@
+{
+  "uuid": "2ed21594c9fb4cc196904821af990354",
+  "file_path": "https://cdn.sh-genius.cn/af7b54469241e8f5ad9ce3cbe7d3dc76.dcz",
+  "file_md5": "af7b54469241e8f5ad9ce3cbe7d3dc76",
+  "title": "地理练习部分 六年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/2ed21594c9fb4cc196904821af990354/2ed21594c9fb4cc196904821af990354.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/2ed21594c9fb4cc196904821af990354.jpg",
+  "is_current_term": 0,
+  "use_year": "2022",
+  "text_start_page": 2,
+  "short_title": "地理练习部分（试用本）（六/一）",
+  "update_time": "2022-08-26 09:59:04",
+  "subject": "DL",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SIXTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "06",
+      "grade_level_str": "六年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "SIXTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787544493543",
+  "status": "1",
+  "subject_str": "地理"
+}

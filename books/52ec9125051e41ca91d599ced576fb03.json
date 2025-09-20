@@ -1,0 +1,35 @@
+{
+  "uuid": "52ec9125051e41ca91d599ced576fb03",
+  "file_path": "https://cdn.sh-genius.cn/a045ba0f981162f5ae6c9832858e405f.dcz",
+  "file_md5": "a045ba0f981162f5ae6c9832858e405f",
+  "title": "科学（牛津上海版）练习部分 七年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/52ec9125051e41ca91d599ced576fb03/52ec9125051e41ca91d599ced576fb03.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/52ec9125051e41ca91d599ced576fb03.jpg",
+  "is_current_term": 0,
+  "use_year": "2022",
+  "text_start_page": 4,
+  "short_title": "科学练习部分（试用本）（七/一）",
+  "update_time": "2022-09-02 10:45:37",
+  "subject": "KX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "07",
+      "grade_level_str": "七年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYD",
+  "grade": "SEVENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787807062554",
+  "status": "1",
+  "subject_str": "科学"
+}

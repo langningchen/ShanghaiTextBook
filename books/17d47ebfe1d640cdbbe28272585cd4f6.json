@@ -1,0 +1,36 @@
+{
+  "uuid": "17d47ebfe1d640cdbbe28272585cd4f6",
+  "file_path": "https://cdn.sh-genius.cn/bb43a83be93a9e05e5525ba182aef3ee.dcz",
+  "file_md5": "bb43a83be93a9e05e5525ba182aef3ee",
+  "title": "科学与技术 四年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/17d47ebfe1d640cdbbe28272585cd4f6/17d47ebfe1d640cdbbe28272585cd4f6.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/17d47ebfe1d640cdbbe28272585cd4f6.jpg",
+  "is_current_term": 0,
+  "use_year": "2021",
+  "text_start_page": 6,
+  "short_title": "科学与技术（试用本）（四/一）",
+  "update_time": "2021-08-26 11:26:02",
+  "subject": "KJ",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FOURTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "04",
+      "grade_level_str": "四年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "course_type": "JC",
+  "publisher": "SHJY",
+  "grade": "FOURTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787544462037",
+  "status": "1",
+  "subject_str": "科学与技术"
+}

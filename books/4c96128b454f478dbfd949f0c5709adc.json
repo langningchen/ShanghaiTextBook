@@ -1,0 +1,35 @@
+{
+  "uuid": "4c96128b454f478dbfd949f0c5709adc",
+  "file_path": "https://cdn.sh-genius.cn/ad3342ee1972fe944aa2e48d71d56688.dcz",
+  "file_md5": "ad3342ee1972fe944aa2e48d71d56688",
+  "title": "劳动技术 五年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/4c96128b454f478dbfd949f0c5709adc/4c96128b454f478dbfd949f0c5709adc.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/4c96128b454f478dbfd949f0c5709adc.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "劳动技术（试用本）（五/二）",
+  "update_time": "2025-02-14 19:14:09",
+  "subject": "LD",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FIFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "05",
+      "grade_level_str": "五年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHKJ",
+  "grade": "FIFTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787542874023",
+  "status": "1",
+  "subject_str": "劳动技术"
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "5a17e4825a1b40a086d978a3362a29b9",
+  "file_path": "https://cdn.sh-genius.cn/f6bd78ea84fc61372ae92f73123de18f.dcz",
+  "file_md5": "f6bd78ea84fc61372ae92f73123de18f",
+  "title": "自然活动部分 三年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/5a17e4825a1b40a086d978a3362a29b9/5a17e4825a1b40a086d978a3362a29b9.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/5a17e4825a1b40a086d978a3362a29b9.jpg",
+  "is_current_term": 0,
+  "use_year": "2022",
+  "text_start_page": 4,
+  "short_title": "自然活动部分（试用本）（三/一）",
+  "update_time": "2022-08-31 09:10:54",
+  "subject": "ZR",
+  "used_grade_semesters": [
+    {
+      "grade_level": "THIRD_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "03",
+      "grade_level_str": "三年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYD",
+  "grade": "THIRD_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "HDSC",
+  "isbn": "9787806614990",
+  "status": "1",
+  "subject_str": "自然"
+}

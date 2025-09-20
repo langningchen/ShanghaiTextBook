@@ -1,0 +1,40 @@
+{
+  "uuid": "fba206703ac142069df3e1ec3fcc8baf",
+  "file_path": "https://cdn.sh-genius.cn/a0501c1c4e8c6b76ddf954332bddab05.dcz",
+  "file_md5": "a0501c1c4e8c6b76ddf954332bddab05",
+  "title": "“红领巾奖章”争章手册 三年级",
+  "cover_path": "https://cdn.sh-genius.cn/cover/fba206703ac142069df3e1ec3fcc8baf/fba206703ac142069df3e1ec3fcc8baf.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/fba206703ac142069df3e1ec3fcc8baf.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "“红领巾奖章”争章手册（三年级）",
+  "update_time": "2024-09-28 22:43:54",
+  "subject": "QT",
+  "used_grade_semesters": [
+    {
+      "grade_level": "THIRD_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        },
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "03",
+      "grade_level_str": "三年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYY",
+  "grade": "THIRD_GRADE",
+  "term": "ALL",
+  "use_type": "XSYS",
+  "isbn": "9787552329384",
+  "status": "1",
+  "subject_str": "其它"
+}

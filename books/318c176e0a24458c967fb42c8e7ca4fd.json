@@ -1,0 +1,35 @@
+{
+  "uuid": "318c176e0a24458c967fb42c8e7ca4fd",
+  "file_path": "https://cdn.sh-genius.cn/e547227361740930cfd6ba96119b0b22.dcz",
+  "file_md5": "e547227361740930cfd6ba96119b0b22",
+  "title": "自然 二年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/318c176e0a24458c967fb42c8e7ca4fd/318c176e0a24458c967fb42c8e7ca4fd.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/318c176e0a24458c967fb42c8e7ca4fd.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 8,
+  "short_title": "自然（试用本）（二/二）",
+  "update_time": "2025-02-14 19:13:37",
+  "subject": "ZR",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SECOND_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "02",
+      "grade_level_str": "二年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHKJ",
+  "grade": "SECOND_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787542851970",
+  "status": "1",
+  "subject_str": "自然"
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "7e1cf7475b0d4b1bb2c0a2f6b15ea7d5",
+  "file_path": "https://cdn.sh-genius.cn/11273f6b0d1e1b7f0c7e6460dce17eed.dcz",
+  "file_md5": "11273f6b0d1e1b7f0c7e6460dce17eed",
+  "title": "普通高中教科书 地理 必修第二册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/7e1cf7475b0d4b1bb2c0a2f6b15ea7d5/7e1cf7475b0d4b1bb2c0a2f6b15ea7d5.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/7e1cf7475b0d4b1bb2c0a2f6b15ea7d5.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 4,
+  "short_title": "普通高中教科书·地理（必修第二册）",
+  "update_time": "2025-02-20 10:02:00",
+  "subject": "DL",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "ZGDT",
+  "grade": "TENTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787558802584",
+  "status": "1",
+  "subject_str": "地理"
+}

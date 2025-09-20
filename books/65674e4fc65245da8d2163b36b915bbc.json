@@ -1,0 +1,35 @@
+{
+  "uuid": "65674e4fc65245da8d2163b36b915bbc",
+  "file_path": "https://cdn.sh-genius.cn/2f75bf8cc494116fbb5ce35f894b21e7.dcz",
+  "file_md5": "2f75bf8cc494116fbb5ce35f894b21e7",
+  "title": "英语（牛津上海版）五年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/65674e4fc65245da8d2163b36b915bbc/65674e4fc65245da8d2163b36b915bbc.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/65674e4fc65245da8d2163b36b915bbc.jpg",
+  "is_current_term": 0,
+  "use_year": "2022",
+  "text_start_page": 6,
+  "short_title": "英语（牛津上海版）（试用本）（五/二）",
+  "update_time": "2023-02-13 17:25:49",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FIFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "05",
+      "grade_level_str": "五年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "FIFTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787544416566",
+  "status": "1",
+  "subject_str": "英语"
+}

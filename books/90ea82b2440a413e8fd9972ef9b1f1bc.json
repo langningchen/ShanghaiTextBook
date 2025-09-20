@@ -1,0 +1,35 @@
+{
+  "uuid": "90ea82b2440a413e8fd9972ef9b1f1bc",
+  "file_path": "https://cdn.sh-genius.cn/fc8b3a1f921ca8e3000ded9c6278bd25.dcz",
+  "file_md5": "fc8b3a1f921ca8e3000ded9c6278bd25",
+  "title": "义务教育教科书（五·四学制）·艺术·唱游·音乐 一年级 上册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/90ea82b2440a413e8fd9972ef9b1f1bc/90ea82b2440a413e8fd9972ef9b1f1bc.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/90ea82b2440a413e8fd9972ef9b1f1bc.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 8,
+  "short_title": "义务教育教科书（五·四学制）·艺术·唱游·音乐（一年级上册）",
+  "update_time": "2024-09-23 15:06:27",
+  "subject": "YU",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FIRST_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "01",
+      "grade_level_str": "一年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYY",
+  "grade": "FIRST_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787552328530",
+  "status": "1",
+  "subject_str": "音乐"
+}

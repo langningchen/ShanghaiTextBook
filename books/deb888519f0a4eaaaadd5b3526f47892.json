@@ -1,0 +1,35 @@
+{
+  "uuid": "deb888519f0a4eaaaadd5b3526f47892",
+  "file_path": "https://cdn.sh-genius.cn/47c0b07d97bcc137784721e64840b59c.dcz",
+  "file_md5": "47c0b07d97bcc137784721e64840b59c",
+  "title": "自然 三年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/deb888519f0a4eaaaadd5b3526f47892/deb888519f0a4eaaaadd5b3526f47892.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/deb888519f0a4eaaaadd5b3526f47892.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 10,
+  "short_title": "自然（试用本）（三/一）",
+  "update_time": "2024-09-02 15:38:41",
+  "subject": "ZR",
+  "used_grade_semesters": [
+    {
+      "grade_level": "THIRD_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "03",
+      "grade_level_str": "三年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHKJ",
+  "grade": "THIRD_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787542856722",
+  "status": "1",
+  "subject_str": "自然"
+}

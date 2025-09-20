@@ -1,0 +1,35 @@
+{
+  "uuid": "de3682e084a24fa0b2c253b04a0e5ba5",
+  "file_path": "https://cdn.sh-genius.cn/91ba6287dae8e12c68a78d8cdae58636.dcz",
+  "file_md5": "91ba6287dae8e12c68a78d8cdae58636",
+  "title": "数学 四年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/de3682e084a24fa0b2c253b04a0e5ba5/de3682e084a24fa0b2c253b04a0e5ba5.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/de3682e084a24fa0b2c253b04a0e5ba5.jpg",
+  "is_current_term": 0,
+  "use_year": "2023",
+  "text_start_page": 4,
+  "short_title": "数学（试用本）（四/一）",
+  "update_time": "2023-08-17 09:27:20",
+  "subject": "SX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FOURTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "04",
+      "grade_level_str": "四年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "FOURTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787544476881",
+  "status": "1",
+  "subject_str": "数学"
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "923984da6faf40cdb5db25607f911cc1",
+  "file_path": "https://cdn.sh-genius.cn/c64a0e26eea4754730eb26885625e603.dcz",
+  "file_md5": "c64a0e26eea4754730eb26885625e603",
+  "title": "物理学习活动卡 八年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/923984da6faf40cdb5db25607f911cc1/923984da6faf40cdb5db25607f911cc1.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/923984da6faf40cdb5db25607f911cc1.jpg",
+  "is_current_term": 0,
+  "use_year": "2022",
+  "text_start_page": 2,
+  "short_title": "物理学习活动卡（试用本）（八/一）",
+  "update_time": "2022-08-31 09:33:06",
+  "subject": "WL",
+  "used_grade_semesters": [
+    {
+      "grade_level": "EIGHTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "08",
+      "grade_level_str": "八年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "EIGHTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "HDSC",
+  "isbn": "9787544493000",
+  "status": "1",
+  "subject_str": "物理"
+}

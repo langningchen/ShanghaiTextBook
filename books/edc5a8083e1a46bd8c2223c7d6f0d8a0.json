@@ -1,0 +1,35 @@
+{
+  "uuid": "edc5a8083e1a46bd8c2223c7d6f0d8a0",
+  "file_path": "https://cdn.sh-genius.cn/348e439872054d9379f3ef337c59b049.dcz",
+  "file_md5": "348e439872054d9379f3ef337c59b049",
+  "title": "美术 四年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/edc5a8083e1a46bd8c2223c7d6f0d8a0/edc5a8083e1a46bd8c2223c7d6f0d8a0.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/edc5a8083e1a46bd8c2223c7d6f0d8a0.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 2,
+  "short_title": "美术（试用本）（四/一）",
+  "update_time": "2024-09-11 23:06:12",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FOURTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "04",
+      "grade_level_str": "四年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHSH",
+  "grade": "FOURTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787547923436",
+  "status": "1",
+  "subject_str": "美术"
+}

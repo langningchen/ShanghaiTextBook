@@ -1,0 +1,35 @@
+{
+  "uuid": "829fbb8987814ba983138060a61d1b08",
+  "file_path": "https://cdn.sh-genius.cn/c4147a59e2173ca0cec5bd950685e8f3.dcz",
+  "file_md5": "c4147a59e2173ca0cec5bd950685e8f3",
+  "title": "普通高中教科书 英语 选择性必修第三册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/829fbb8987814ba983138060a61d1b08/829fbb8987814ba983138060a61d1b08.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/829fbb8987814ba983138060a61d1b08.jpg",
+  "is_current_term": 0,
+  "use_year": "2022",
+  "text_start_page": 4,
+  "short_title": "普通高中教科书·英语（选择性必修第三册）",
+  "update_time": "2023-02-16 15:57:11",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "ELEVENTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787572010361",
+  "status": "1",
+  "subject_str": "英语"
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "6cd9f031c0c84433b85ff94d0c685b72",
+  "file_path": "https://cdn.sh-genius.cn/31554ad81d989df4a90464cf43b75324.dcz",
+  "file_md5": "31554ad81d989df4a90464cf43b75324",
+  "title": "普通高中教科书 英语练习部分 必修第三册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/6cd9f031c0c84433b85ff94d0c685b72/6cd9f031c0c84433b85ff94d0c685b72.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/6cd9f031c0c84433b85ff94d0c685b72.jpg",
+  "is_current_term": 0,
+  "use_year": "2022",
+  "text_start_page": 6,
+  "short_title": "普通高中教科书·英语（必修第三册）练习部分",
+  "update_time": "2023-02-16 14:38:16",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "TENTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787572004018",
+  "status": "1",
+  "subject_str": "英语"
+}

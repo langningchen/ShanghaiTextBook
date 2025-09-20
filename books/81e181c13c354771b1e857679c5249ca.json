@@ -1,0 +1,35 @@
+{
+  "uuid": "81e181c13c354771b1e857679c5249ca",
+  "file_path": "https://cdn.sh-genius.cn/c2e3cbc28e6a11db3e1eafa6d47ae094.dcz",
+  "file_md5": "c2e3cbc28e6a11db3e1eafa6d47ae094",
+  "title": "英语（牛津上海版） 四年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/81e181c13c354771b1e857679c5249ca/81e181c13c354771b1e857679c5249ca.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/81e181c13c354771b1e857679c5249ca.jpg",
+  "is_current_term": 0,
+  "use_year": "2023",
+  "text_start_page": 6,
+  "short_title": "英语（牛津上海版）（试用本）（四/一）",
+  "update_time": "2023-08-15 15:34:50",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FOURTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "04",
+      "grade_level_str": "四年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "FOURTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787544413695",
+  "status": "1",
+  "subject_str": "英语"
+}

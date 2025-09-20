@@ -1,0 +1,40 @@
+{
+  "uuid": "9ad168b872fb4c81b4bf6ac03dd741cf",
+  "file_path": "https://cdn.sh-genius.cn/ce43d5fbbdca0b1c7edd889d6e8ac40a.dcz",
+  "file_md5": "ce43d5fbbdca0b1c7edd889d6e8ac40a",
+  "title": "体育与健身 三年级（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/9ad168b872fb4c81b4bf6ac03dd741cf/9ad168b872fb4c81b4bf6ac03dd741cf.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/9ad168b872fb4c81b4bf6ac03dd741cf.jpg",
+  "is_current_term": 0,
+  "use_year": "2023",
+  "text_start_page": 4,
+  "short_title": "体育与健身（试用本）（三年级）",
+  "update_time": "2023-08-17 10:34:22",
+  "subject": "TJ",
+  "used_grade_semesters": [
+    {
+      "grade_level": "THIRD_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        },
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "03",
+      "grade_level_str": "三年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SNET",
+  "grade": "THIRD_GRADE",
+  "term": "ALL",
+  "use_type": "XSYS",
+  "isbn": "9787558906770",
+  "status": "1",
+  "subject_str": "体育与健身"
+}

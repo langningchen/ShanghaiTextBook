@@ -1,0 +1,35 @@
+{
+  "uuid": "b8ebd4ad7d5347a491101e5988bb5289",
+  "file_path": "https://cdn.sh-genius.cn/516760c8a3fa0272c8e4689db7f308af.dcz",
+  "file_md5": "516760c8a3fa0272c8e4689db7f308af",
+  "title": "科学与技术 三年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/b8ebd4ad7d5347a491101e5988bb5289/b8ebd4ad7d5347a491101e5988bb5289.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/b8ebd4ad7d5347a491101e5988bb5289.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 6,
+  "short_title": "科学与技术（试用本）（三/一）",
+  "update_time": "2025-08-18 15:56:00",
+  "subject": "KJ",
+  "used_grade_semesters": [
+    {
+      "grade_level": "THIRD_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "03",
+      "grade_level_str": "三年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "THIRD_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787544462044",
+  "status": "1",
+  "subject_str": "科学与技术"
+}

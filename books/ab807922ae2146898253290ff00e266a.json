@@ -1,0 +1,35 @@
+{
+  "uuid": "ab807922ae2146898253290ff00e266a",
+  "file_path": "https://cdn.sh-genius.cn/f2120691198dff9c81cda4fa0f66c541.dcz",
+  "file_md5": "f2120691198dff9c81cda4fa0f66c541",
+  "title": "普通高中教科书 英语 选择性必修第一册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/ab807922ae2146898253290ff00e266a/ab807922ae2146898253290ff00e266a.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/ab807922ae2146898253290ff00e266a.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 4,
+  "short_title": "普通高中教科书·英语（选择性必修第一册）（含音视频材料）",
+  "update_time": "2024-09-12 13:50:49",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "ELEVENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787572000805",
+  "status": "1",
+  "subject_str": "英语"
+}

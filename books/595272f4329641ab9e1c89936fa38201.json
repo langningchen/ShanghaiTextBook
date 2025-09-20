@@ -1,0 +1,35 @@
+{
+  "uuid": "595272f4329641ab9e1c89936fa38201",
+  "file_path": "https://cdn.sh-genius.cn/1dff99f379330306133f55acb1514cc5.dcz",
+  "file_md5": "1dff99f379330306133f55acb1514cc5",
+  "title": "普通高中教科书 音乐 选择性必修5 音乐基础理论",
+  "cover_path": "https://cdn.sh-genius.cn/cover/595272f4329641ab9e1c89936fa38201/595272f4329641ab9e1c89936fa38201.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/595272f4329641ab9e1c89936fa38201.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 8,
+  "short_title": "普通高中教科书·音乐（选择性必修5 音乐基础理论）",
+  "update_time": "2025-03-20 14:01:56",
+  "subject": "YU",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYY",
+  "grade": "TENTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787552319880",
+  "status": "1",
+  "subject_str": "音乐"
+}

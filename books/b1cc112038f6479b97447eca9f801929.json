@@ -1,0 +1,40 @@
+{
+  "uuid": "b1cc112038f6479b97447eca9f801929",
+  "file_path": "https://cdn.sh-genius.cn/a8c3f691b6a0dd6617f7ca13921ef2df.dcz",
+  "file_md5": "a8c3f691b6a0dd6617f7ca13921ef2df",
+  "title": "义务教育教科书（五·四学制） 体育与健康（教师用书） 田径类运动 全一册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/b1cc112038f6479b97447eca9f801929/b1cc112038f6479b97447eca9f801929.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/b1cc112038f6479b97447eca9f801929.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 8,
+  "short_title": "义务教育教科书（五·四学制）·体育与健康教师用书（配有数字演示资源）田径类运动 （全一册）",
+  "update_time": "2024-09-28 13:45:51",
+  "subject": "TJ",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        },
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "07",
+      "grade_level_str": "七年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "SEVENTH_GRADE",
+  "term": "ALL",
+  "use_type": "XSYS",
+  "isbn": "9787572029974",
+  "status": "1",
+  "subject_str": "体育与健身"
+}

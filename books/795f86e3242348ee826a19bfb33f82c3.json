@@ -1,0 +1,35 @@
+{
+  "uuid": "795f86e3242348ee826a19bfb33f82c3",
+  "file_path": "https://cdn.sh-genius.cn/3979a3bfae64336fb21ca4a21211ef8e.dcz",
+  "file_md5": "3979a3bfae64336fb21ca4a21211ef8e",
+  "title": "普通高中教科书 地理图册 选择性必修3 资源、环境与国家安全",
+  "cover_path": "https://cdn.sh-genius.cn/cover/795f86e3242348ee826a19bfb33f82c3/795f86e3242348ee826a19bfb33f82c3.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/795f86e3242348ee826a19bfb33f82c3.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 4,
+  "short_title": "普通高中教科书•地理图册（选择性必修3 资源、环境与国家安全）",
+  "update_time": "2024-08-27 09:29:15",
+  "subject": "DL",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TWELFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "12",
+      "grade_level_str": "高三"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "ZGDT",
+  "grade": "TWELFTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787558803239",
+  "status": "1",
+  "subject_str": "地理"
+}

@@ -1,0 +1,34 @@
+{
+  "uuid": "5973a8fe30164df5a10883e8f887c7bc",
+  "file_path": "https://cdn.sh-genius.cn/eb78c59f2a239fe6ca40bd1cd1cf1774.dcz",
+  "file_md5": "eb78c59f2a239fe6ca40bd1cd1cf1774",
+  "title": "普通高中教科书 物理练习部分 选择性必修第三册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/5973a8fe30164df5a10883e8f887c7bc/5973a8fe30164df5a10883e8f887c7bc.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/5973a8fe30164df5a10883e8f887c7bc.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "普通高中教科书·物理（选择性必修第三册）练习部分",
+  "update_time": "2024-09-04 12:16:04",
+  "subject": "WL",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TWELFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "12",
+      "grade_level_str": "高三"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "grade": "TWELFTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787547862285",
+  "status": "1",
+  "subject_str": "物理"
+}

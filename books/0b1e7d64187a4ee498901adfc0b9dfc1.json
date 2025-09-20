@@ -1,0 +1,40 @@
+{
+  "uuid": "0b1e7d64187a4ee498901adfc0b9dfc1",
+  "file_path": "https://cdn.sh-genius.cn/b2b6a6f46bc7bae0116993602c7e1b65.dcz",
+  "file_md5": "b2b6a6f46bc7bae0116993602c7e1b65",
+  "title": "体育与健身 九年级（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/0b1e7d64187a4ee498901adfc0b9dfc1/0b1e7d64187a4ee498901adfc0b9dfc1.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/0b1e7d64187a4ee498901adfc0b9dfc1.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "体育与健身（试用本）（九年级）",
+  "update_time": "2024-08-26 13:45:08",
+  "subject": "TJ",
+  "used_grade_semesters": [
+    {
+      "grade_level": "NINTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        },
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "09",
+      "grade_level_str": "九年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "NINTH_GRADE",
+  "term": "ALL",
+  "use_type": "XSYS",
+  "isbn": "9787544498258",
+  "status": "1",
+  "subject_str": "体育与健身"
+}

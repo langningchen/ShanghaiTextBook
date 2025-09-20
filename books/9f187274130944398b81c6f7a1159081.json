@@ -1,0 +1,35 @@
+{
+  "uuid": "9f187274130944398b81c6f7a1159081",
+  "file_path": "https://cdn.sh-genius.cn/a2628dc92d66c304c07e6c6994902e46.dcz",
+  "file_md5": "a2628dc92d66c304c07e6c6994902e46",
+  "title": "普通高中教科书 英语练习部分 必修第一册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/9f187274130944398b81c6f7a1159081/9f187274130944398b81c6f7a1159081.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/9f187274130944398b81c6f7a1159081.jpg",
+  "is_current_term": 0,
+  "use_year": "2022",
+  "text_start_page": 8,
+  "short_title": "普通高中教科书·英语（必修第一册）练习部分",
+  "update_time": "2022-09-07 15:20:42",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "TENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787572014185",
+  "status": "1",
+  "subject_str": "英语"
+}

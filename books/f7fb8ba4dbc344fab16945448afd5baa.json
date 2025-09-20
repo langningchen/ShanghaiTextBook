@@ -1,0 +1,35 @@
+{
+  "uuid": "f7fb8ba4dbc344fab16945448afd5baa",
+  "file_path": "https://cdn.sh-genius.cn/c98259c6c41be5e0c32a3877c8443535.dcz",
+  "file_md5": "c98259c6c41be5e0c32a3877c8443535",
+  "title": "义务教育教科书（五·四学制） 数学 六年级 上册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/f7fb8ba4dbc344fab16945448afd5baa/f7fb8ba4dbc344fab16945448afd5baa.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/f7fb8ba4dbc344fab16945448afd5baa.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 8,
+  "short_title": "义务教育教科书（五·四学制）·数学（六年级上册）",
+  "update_time": "2025-08-18 17:16:37",
+  "subject": "SX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SIXTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "06",
+      "grade_level_str": "六年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "SIXTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787572028250",
+  "status": "1",
+  "subject_str": "数学"
+}

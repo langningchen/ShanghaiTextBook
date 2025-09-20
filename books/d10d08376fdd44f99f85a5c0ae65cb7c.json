@@ -1,0 +1,35 @@
+{
+  "uuid": "d10d08376fdd44f99f85a5c0ae65cb7c",
+  "file_path": "https://cdn.sh-genius.cn/23bd8abc12a5c8a84550889f7ce623ad.dcz",
+  "file_md5": "23bd8abc12a5c8a84550889f7ce623ad",
+  "title": "普通高中教科书 英语 选择性必修第二册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/d10d08376fdd44f99f85a5c0ae65cb7c/d10d08376fdd44f99f85a5c0ae65cb7c.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/d10d08376fdd44f99f85a5c0ae65cb7c.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 4,
+  "short_title": "普通高中教科书·英语（选择性必修第二册）（含音视频材料）",
+  "update_time": "2025-08-13 12:58:14",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "ELEVENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787572006944",
+  "status": "1",
+  "subject_str": "英语"
+}

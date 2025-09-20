@@ -1,0 +1,35 @@
+{
+  "uuid": "701402de8d4d41b8a7c3fa8568040856",
+  "file_path": "https://cdn.sh-genius.cn/455dd0021a7c6463f6fa57c6716912b4.dcz",
+  "file_md5": "455dd0021a7c6463f6fa57c6716912b4",
+  "title": "英语（牛津上海版）练习部分 六年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/701402de8d4d41b8a7c3fa8568040856/701402de8d4d41b8a7c3fa8568040856.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/701402de8d4d41b8a7c3fa8568040856.jpg",
+  "is_current_term": 0,
+  "use_year": "2022",
+  "text_start_page": 4,
+  "short_title": "英语练习部分（牛津上海版）（试用本）（六/二）",
+  "update_time": "2023-02-13 17:44:56",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SIXTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "06",
+      "grade_level_str": "六年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "SIXTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787544416740",
+  "status": "1",
+  "subject_str": "英语"
+}

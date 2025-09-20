@@ -1,0 +1,35 @@
+{
+  "uuid": "86472c73554a4e51b6bc3099d1632a5c",
+  "file_path": "https://cdn.sh-genius.cn/74b59c6ca65f50ba404d4921fea72863.dcz",
+  "file_md5": "74b59c6ca65f50ba404d4921fea72863",
+  "title": "普通高中教科书 艺术 必修3 艺术与科学",
+  "cover_path": "https://cdn.sh-genius.cn/cover/86472c73554a4e51b6bc3099d1632a5c/86472c73554a4e51b6bc3099d1632a5c.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/86472c73554a4e51b6bc3099d1632a5c.jpg",
+  "is_current_term": 0,
+  "use_year": "2023",
+  "text_start_page": 6,
+  "short_title": "普通高中教科书·艺术（必修3 艺术与科学）",
+  "update_time": "2023-08-29 17:12:26",
+  "subject": "YS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "TENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787572006715",
+  "status": "1",
+  "subject_str": "艺术"
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "d582e4bdb48a48dba20e7577334e6119",
+  "file_path": "https://cdn.sh-genius.cn/a4bc3b924ec6cff6546129008bfe09ea.dcz",
+  "file_md5": "a4bc3b924ec6cff6546129008bfe09ea",
+  "title": "普通高中教科书 地理 选择性必修1 自然地理基础",
+  "cover_path": "https://cdn.sh-genius.cn/cover/d582e4bdb48a48dba20e7577334e6119/d582e4bdb48a48dba20e7577334e6119.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/d582e4bdb48a48dba20e7577334e6119.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 4,
+  "short_title": "普通高中教科书·地理（选择性必修1  自然地理基础）",
+  "update_time": "2025-02-20 10:02:14",
+  "subject": "DL",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "ZGDT",
+  "grade": "TENTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787558803147",
+  "status": "1",
+  "subject_str": "地理"
+}

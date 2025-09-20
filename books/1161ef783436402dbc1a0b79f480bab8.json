@@ -1,0 +1,35 @@
+{
+  "uuid": "1161ef783436402dbc1a0b79f480bab8",
+  "file_path": "https://cdn.sh-genius.cn/3a96fa3f5d0da0e7568b0fa39074d924.dcz",
+  "file_md5": "3a96fa3f5d0da0e7568b0fa39074d924",
+  "title": "英语（牛津上海版）练习部分 四年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/1161ef783436402dbc1a0b79f480bab8/1161ef783436402dbc1a0b79f480bab8.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/1161ef783436402dbc1a0b79f480bab8.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 2,
+  "short_title": "英语（牛津上海版）练习部分（试用本）（四/一）",
+  "update_time": "2024-08-28 22:03:42",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FOURTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "04",
+      "grade_level_str": "四年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "FOURTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "LXC",
+  "isbn": "9787544413701",
+  "status": "1",
+  "subject_str": "英语"
+}

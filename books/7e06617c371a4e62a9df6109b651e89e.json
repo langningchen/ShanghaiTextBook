@@ -1,0 +1,35 @@
+{
+  "uuid": "7e06617c371a4e62a9df6109b651e89e",
+  "file_path": "https://cdn.sh-genius.cn/a01bd6dd5b56e3bcf6276c2c00590db1.dcz",
+  "file_md5": "a01bd6dd5b56e3bcf6276c2c00590db1",
+  "title": "语文综合学习 三年级第一学期（试验本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/7e06617c371a4e62a9df6109b651e89e/7e06617c371a4e62a9df6109b651e89e.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/7e06617c371a4e62a9df6109b651e89e.jpg",
+  "is_current_term": 0,
+  "use_year": "2023",
+  "text_start_page": 6,
+  "short_title": "语文综合学习（试验本）（三/一）",
+  "update_time": "2023-08-22 11:09:36",
+  "subject": "YW",
+  "used_grade_semesters": [
+    {
+      "grade_level": "THIRD_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "03",
+      "grade_level_str": "三年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHCS",
+  "grade": "THIRD_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787532653959",
+  "status": "1",
+  "subject_str": "语文"
+}

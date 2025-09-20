@@ -1,0 +1,35 @@
+{
+  "uuid": "bd4c2ff9e93c4a8cbfdda677b3989892",
+  "file_path": "https://cdn.sh-genius.cn/28070b8bbff49d9fe68dbe0e973980b0.dcz",
+  "file_md5": "28070b8bbff49d9fe68dbe0e973980b0",
+  "title": "普通高中教科书 信息技术 选择性必修1 数据与数据结构",
+  "cover_path": "https://cdn.sh-genius.cn/cover/bd4c2ff9e93c4a8cbfdda677b3989892/bd4c2ff9e93c4a8cbfdda677b3989892.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/bd4c2ff9e93c4a8cbfdda677b3989892.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 10,
+  "short_title": "普通高中教科书·信息技术（选择性必修1 数据与数据结构）",
+  "update_time": "2024-09-11 21:28:31",
+  "subject": "XX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "HDSD",
+  "grade": "ELEVENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "XSYS",
+  "isbn": "9787576005493",
+  "status": "1",
+  "subject_str": "信息科技"
+}
