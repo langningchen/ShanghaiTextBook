@@ -1,7 +1,7 @@
 {
-    "name": "pdf-decrypt-batch",
+    "name": "shanghai-textbook",
     "version": "1.0.0",
-    "description": "批量解密PDF文件并处理附件",
+    "description": "A tool to download Shanghai textbook",
     "type": "module",
     "main": "dist/index.js",
     "scripts": {
@@ -12,7 +12,7 @@
         "clean": "rimraf dist",
         "lint": "tsc --noEmit && echo \"No TypeScript errors found\"",
         "install-deps": "pnpm install",
-        "setup": "pnpm install && npm run build"
+        "setup": "pnpm install && pnpm run build"
     },
     "dependencies": {
         "@clack/prompts": "^0.11.0",
