@@ -1,4 +1,4 @@
-import { intro, text, spinner } from "@clack/prompts";
+import { text, spinner } from "@clack/prompts";
 import { createHash } from "crypto";
 
 interface OldTokenType {
@@ -71,7 +71,6 @@ export class Token {
     }
   }
   private static async getTokenBrowser(): Promise<string> {
-    intro("Shanghai TextBook Token");
     const input = await text({
       message:
         "Please open https://sh.etextbook.cn/ in your browser and log in, then paste the URL containing the token here",
