@@ -1,0 +1,35 @@
+{
+  "uuid": "8092b95839284e82b357561a9e0ea88a",
+  "file_path": "https://cdn.sh-genius.cn/c298c3c1233725f670b525452d79d27c.dcz",
+  "file_md5": "c298c3c1233725f670b525452d79d27c",
+  "title": "自然教学参考资料 三年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/8092b95839284e82b357561a9e0ea88a/8092b95839284e82b357561a9e0ea88a.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/8092b95839284e82b357561a9e0ea88a.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "自然（试用本）教学参考资料（三/二）",
+  "update_time": "2025-02-14 19:14:13",
+  "subject": "ZR",
+  "used_grade_semesters": [
+    {
+      "grade_level": "THIRD_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "03",
+      "grade_level_str": "三年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHKJ",
+  "grade": "THIRD_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787542851161",
+  "status": "1",
+  "subject_str": "自然"
+}

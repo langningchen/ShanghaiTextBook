@@ -1,0 +1,34 @@
+{
+  "uuid": "ba43bfbe9c4d4ecd98b3ad46ec94dc43",
+  "file_path": "https://cdn.sh-genius.cn/bf249d36e0dd84b6773e1f5d0c550c33.dcz",
+  "file_md5": "bf249d36e0dd84b6773e1f5d0c550c33",
+  "title": "普通高中 物理教学参考资料 选择性必修 第三册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/ba43bfbe9c4d4ecd98b3ad46ec94dc43/ba43bfbe9c4d4ecd98b3ad46ec94dc43.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/ba43bfbe9c4d4ecd98b3ad46ec94dc43.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 8,
+  "short_title": "普通高中教科书·物理（选择性必修第三册）教学参考资料",
+  "update_time": "2025-09-03 18:13:49",
+  "subject": "WL",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TWELFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "12",
+      "grade_level_str": "高三"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "grade": "TWELFTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787547865448",
+  "status": "1",
+  "subject_str": "物理"
+}

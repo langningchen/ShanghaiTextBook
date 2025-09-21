@@ -1,0 +1,59 @@
+{
+  "uuid": "b154ad84ef5c4e41b50c2014a9f54024",
+  "file_path": "https://cdn.sh-genius.cn/dc860d5f1703a393d167628217556e50.dcz",
+  "file_md5": "dc860d5f1703a393d167628217556e50",
+  "title": "普通高中 地理教学参考资料 选择性必修2 区域发展",
+  "cover_path": "https://cdn.sh-genius.cn/cover/b154ad84ef5c4e41b50c2014a9f54024/b154ad84ef5c4e41b50c2014a9f54024.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/b154ad84ef5c4e41b50c2014a9f54024.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 8,
+  "short_title": "普通高中教科书·地理（选择性必修2 区域发展）教学参考资料",
+  "update_time": "2025-07-30 23:49:36",
+  "subject": "DL",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    },
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    },
+    {
+      "grade_level": "TWELFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "12",
+      "grade_level_str": "高三"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "ZHDT",
+  "grade": "SENIOR_PHASE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787558804250",
+  "status": "1",
+  "subject_str": "地理"
+}

@@ -1,0 +1,91 @@
+{
+  "uuid": "6702b547c8424af9b2c3fe37f0517e8b",
+  "file_path": "https://cdn.sh-genius.cn/43965f0c9f4299536baaefefca55db76.dcz",
+  "file_md5": "43965f0c9f4299536baaefefca55db76",
+  "title": "中学物理实验手册 初中（试验本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/6702b547c8424af9b2c3fe37f0517e8b/6702b547c8424af9b2c3fe37f0517e8b.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/6702b547c8424af9b2c3fe37f0517e8b.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 14,
+  "short_title": "中学物理实验手册（初中）（试验本）",
+  "update_time": "2024-09-09 16:44:27",
+  "subject": "WL",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SIXTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        },
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "06",
+      "grade_level_str": "六年级"
+    },
+    {
+      "grade_level": "SEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        },
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "07",
+      "grade_level_str": "七年级"
+    },
+    {
+      "grade_level": "EIGHTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        },
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "08",
+      "grade_level_str": "八年级"
+    },
+    {
+      "grade_level": "NINTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        },
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "09",
+      "grade_level_str": "九年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "JUNIOR_PHASE",
+  "term": "ALL",
+  "use_type": "JSYS",
+  "isbn": "9787544463195",
+  "status": "1",
+  "subject_str": "物理"
+}

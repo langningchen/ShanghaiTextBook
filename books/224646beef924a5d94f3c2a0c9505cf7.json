@@ -1,0 +1,35 @@
+{
+  "uuid": "224646beef924a5d94f3c2a0c9505cf7",
+  "file_path": "https://cdn.sh-genius.cn/60243de3df0498638276b0641f47b0bf.dcz",
+  "file_md5": "60243de3df0498638276b0641f47b0bf",
+  "title": "普通高中 音乐教学参考资料 选择性必修 舞蹈表演 戏剧表演",
+  "cover_path": "https://cdn.sh-genius.cn/cover/224646beef924a5d94f3c2a0c9505cf7/224646beef924a5d94f3c2a0c9505cf7.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/224646beef924a5d94f3c2a0c9505cf7.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 10,
+  "short_title": "普通高中教科书·音乐（选择性必修 舞蹈表演 戏剧表演）教学参考资料",
+  "update_time": "2024-09-23 12:48:33",
+  "subject": "YU",
+  "used_grade_semesters": [
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYY",
+  "grade": "ELEVENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787552323962",
+  "status": "1",
+  "subject_str": "音乐"
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "c95c764a2756453a8b1d4c07f57efeef",
+  "file_path": "https://cdn.sh-genius.cn/407a48c494defe43343cb09a98fbbe3c.dcz",
+  "file_md5": "407a48c494defe43343cb09a98fbbe3c",
+  "title": "普通高中 美术教学参考资料 选择性必修1 绘画",
+  "cover_path": "https://cdn.sh-genius.cn/cover/c95c764a2756453a8b1d4c07f57efeef/c95c764a2756453a8b1d4c07f57efeef.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/c95c764a2756453a8b1d4c07f57efeef.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 4,
+  "short_title": "普通高中教科书·美术（选择性必修1 绘画）教学参考资料",
+  "update_time": "2024-09-04 20:55:53",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TWELFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "12",
+      "grade_level_str": "高三"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHSH",
+  "grade": "TWELFTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787547926659",
+  "status": "1",
+  "subject_str": "美术"
+}

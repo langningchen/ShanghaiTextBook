@@ -1,0 +1,34 @@
+{
+  "uuid": "355a50b10f36448ba27a85869f3b5086",
+  "file_path": "https://cdn.sh-genius.cn/3878a20e443c17927cc77c944c8c0122.dcz",
+  "file_md5": "3878a20e443c17927cc77c944c8c0122",
+  "title": "普通高中 物理教学参考资料 必修 第一册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/355a50b10f36448ba27a85869f3b5086/355a50b10f36448ba27a85869f3b5086.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/355a50b10f36448ba27a85869f3b5086.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 8,
+  "short_title": "普通高中教科书·物理（必修第一册）教学参考资料",
+  "update_time": "2025-09-03 18:13:54",
+  "subject": "WL",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "grade": "TENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787547853467",
+  "status": "1",
+  "subject_str": "物理"
+}

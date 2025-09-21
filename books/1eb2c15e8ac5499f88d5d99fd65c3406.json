@@ -1,0 +1,35 @@
+{
+  "uuid": "1eb2c15e8ac5499f88d5d99fd65c3406",
+  "file_path": "https://cdn.sh-genius.cn/ea5bc11c852d553e84ca648f7e580aa5.dcz",
+  "file_md5": "ea5bc11c852d553e84ca648f7e580aa5",
+  "title": "自然教学参考资料 五年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/1eb2c15e8ac5499f88d5d99fd65c3406/1eb2c15e8ac5499f88d5d99fd65c3406.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/1eb2c15e8ac5499f88d5d99fd65c3406.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 6,
+  "short_title": "自然（试用本）（五/一）教学参考资料",
+  "update_time": "2025-08-06 14:44:02",
+  "subject": "ZR",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FIFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "05",
+      "grade_level_str": "五年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHKJ",
+  "grade": "FIFTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787542879813",
+  "status": "1",
+  "subject_str": "自然"
+}

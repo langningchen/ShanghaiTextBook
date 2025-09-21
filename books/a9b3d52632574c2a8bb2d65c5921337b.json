@@ -1,0 +1,35 @@
+{
+  "uuid": "a9b3d52632574c2a8bb2d65c5921337b",
+  "file_path": "https://cdn.sh-genius.cn/5b56d550bc1922688b18f740d072d412.dcz",
+  "file_md5": "5b56d550bc1922688b18f740d072d412",
+  "title": "美术教学参考资料 五年级 第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/a9b3d52632574c2a8bb2d65c5921337b/a9b3d52632574c2a8bb2d65c5921337b.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/a9b3d52632574c2a8bb2d65c5921337b.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 2,
+  "short_title": "美术（试用本）（五/二）教学参考资料",
+  "update_time": "2025-02-18 12:45:04",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FIFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "05",
+      "grade_level_str": "五年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHSH",
+  "grade": "FIFTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787547922378",
+  "status": "1",
+  "subject_str": "美术"
+}

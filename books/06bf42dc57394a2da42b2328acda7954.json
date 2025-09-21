@@ -1,0 +1,35 @@
+{
+  "uuid": "06bf42dc57394a2da42b2328acda7954",
+  "file_path": "https://cdn.sh-genius.cn/da9933658626cf5737bdecffd1b81267.dcz",
+  "file_md5": "da9933658626cf5737bdecffd1b81267",
+  "title": "生命科学教学参考资料 初中第一册（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/06bf42dc57394a2da42b2328acda7954/06bf42dc57394a2da42b2328acda7954.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/06bf42dc57394a2da42b2328acda7954.jpg",
+  "is_current_term": 0,
+  "use_year": "2022",
+  "text_start_page": 6,
+  "short_title": "生命科学（试用本）（第一册）教学参考资料",
+  "update_time": "2022-09-06 10:31:01",
+  "subject": "SM",
+  "used_grade_semesters": [
+    {
+      "grade_level": "EIGHTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "08",
+      "grade_level_str": "八年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "EIGHTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787544493130",
+  "status": "1",
+  "subject_str": "生命科学"
+}

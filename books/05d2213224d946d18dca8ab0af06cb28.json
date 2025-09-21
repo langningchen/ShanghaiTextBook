@@ -1,0 +1,35 @@
+{
+  "uuid": "05d2213224d946d18dca8ab0af06cb28",
+  "file_path": "https://cdn.sh-genius.cn/4f6eb0661d570b69c2af1ae7a9f77cff.dcz",
+  "file_md5": "4f6eb0661d570b69c2af1ae7a9f77cff",
+  "title": "生命科学教学参考资料 初中第二册（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/05d2213224d946d18dca8ab0af06cb28/05d2213224d946d18dca8ab0af06cb28.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/05d2213224d946d18dca8ab0af06cb28.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "生命科学（试用本）教学参考资料（第二册）",
+  "update_time": "2025-02-15 10:04:34",
+  "subject": "SM",
+  "used_grade_semesters": [
+    {
+      "grade_level": "EIGHTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "08",
+      "grade_level_str": "八年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "EIGHTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787544496384",
+  "status": "1",
+  "subject_str": "生命科学"
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "99c155e922b54adc9b733897e3cf8c7e",
+  "file_path": "https://cdn.sh-genius.cn/238a98d8758a0807f8ec71a2b9cf5b5f.dcz",
+  "file_md5": "238a98d8758a0807f8ec71a2b9cf5b5f",
+  "title": "音乐教学参考资料 三年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/99c155e922b54adc9b733897e3cf8c7e/99c155e922b54adc9b733897e3cf8c7e.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/99c155e922b54adc9b733897e3cf8c7e.jpg",
+  "is_current_term": 0,
+  "use_year": "2022",
+  "text_start_page": 8,
+  "short_title": "音乐（试用本）（三/一）教学参考资料",
+  "update_time": "2022-09-16 15:42:13",
+  "subject": "YU",
+  "used_grade_semesters": [
+    {
+      "grade_level": "THIRD_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "03",
+      "grade_level_str": "三年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYY",
+  "grade": "THIRD_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787552318531",
+  "status": "1",
+  "subject_str": "音乐"
+}

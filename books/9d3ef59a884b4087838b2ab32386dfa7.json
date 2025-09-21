@@ -1,0 +1,35 @@
+{
+  "uuid": "9d3ef59a884b4087838b2ab32386dfa7",
+  "file_path": "https://cdn.sh-genius.cn/a209a751a63be1691e3b407f3b26cfc6.dcz",
+  "file_md5": "a209a751a63be1691e3b407f3b26cfc6",
+  "title": "普通高中教科书 英语教学参考资料 选择性必修第四册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/9d3ef59a884b4087838b2ab32386dfa7/9d3ef59a884b4087838b2ab32386dfa7.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/9d3ef59a884b4087838b2ab32386dfa7.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 16,
+  "short_title": "普通高中教科书·英语（选择性必修第四册）教学参考资料",
+  "update_time": "2025-08-13 11:41:22",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TWELFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "12",
+      "grade_level_str": "高三"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "TWELFTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787572014024",
+  "status": "1",
+  "subject_str": "英语"
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "b1d6d49ac7014cc09e2f14ee24457dac",
+  "file_path": "https://cdn.sh-genius.cn/69772936902c7c28122d2d9266c9e65d.dcz",
+  "file_md5": "69772936902c7c28122d2d9266c9e65d",
+  "title": "普通高中教科书 英语教学参考资料 必修第二册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/b1d6d49ac7014cc09e2f14ee24457dac/b1d6d49ac7014cc09e2f14ee24457dac.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/b1d6d49ac7014cc09e2f14ee24457dac.jpg",
+  "is_current_term": 0,
+  "use_year": "2022",
+  "text_start_page": 14,
+  "short_title": "普通高中教科书·英语（必修第二册）教学参考资料",
+  "update_time": "2022-09-01 10:09:44",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "TENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787572014215",
+  "status": "1",
+  "subject_str": "英语"
+}

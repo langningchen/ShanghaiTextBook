@@ -1,0 +1,35 @@
+{
+  "uuid": "54a13f2aee0149368a788d9f3ac3bc76",
+  "file_path": "https://cdn.sh-genius.cn/781a1c4f0ddd677a1ae8d4b8c828fa49.dcz",
+  "file_md5": "781a1c4f0ddd677a1ae8d4b8c828fa49",
+  "title": "普通高中 体育与健康教学参考资料 必修 第二册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/54a13f2aee0149368a788d9f3ac3bc76/54a13f2aee0149368a788d9f3ac3bc76.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/54a13f2aee0149368a788d9f3ac3bc76.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "普通高中教科书·体育与健康（必修第二册）教学参考资料",
+  "update_time": "2024-08-26 23:28:08",
+  "subject": "TY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TWELFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "12",
+      "grade_level_str": "高三"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "TWELFTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787572006593",
+  "status": "1",
+  "subject_str": "体育"
+}

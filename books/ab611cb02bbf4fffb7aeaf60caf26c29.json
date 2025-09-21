@@ -1,0 +1,59 @@
+{
+  "uuid": "ab611cb02bbf4fffb7aeaf60caf26c29",
+  "file_path": "https://cdn.sh-genius.cn/a5093ff98cc1c181d459cb95aa0c7390.dcz",
+  "file_md5": "a5093ff98cc1c181d459cb95aa0c7390",
+  "title": "普通高中 美术教学参考资料 选择性必修3 雕塑",
+  "cover_path": "https://cdn.sh-genius.cn/cover/ab611cb02bbf4fffb7aeaf60caf26c29/ab611cb02bbf4fffb7aeaf60caf26c29.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/ab611cb02bbf4fffb7aeaf60caf26c29.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 4,
+  "short_title": "普通高中教科书·美术（选择性必修3 雕塑）教学参考资料",
+  "update_time": "2025-08-22 14:26:23",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    },
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    },
+    {
+      "grade_level": "TWELFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "12",
+      "grade_level_str": "高三"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHSH",
+  "grade": "SENIOR_PHASE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787547926673",
+  "status": "1",
+  "subject_str": "美术"
+}

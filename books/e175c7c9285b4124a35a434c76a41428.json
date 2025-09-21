@@ -1,0 +1,35 @@
+{
+  "uuid": "e175c7c9285b4124a35a434c76a41428",
+  "file_path": "https://cdn.sh-genius.cn/be18a44a1bc2ad522dc552a508534585.dcz",
+  "file_md5": "be18a44a1bc2ad522dc552a508534585",
+  "title": "普通高中 地理教学参考资料 选择性必修1 自然地理基础",
+  "cover_path": "https://cdn.sh-genius.cn/cover/e175c7c9285b4124a35a434c76a41428/e175c7c9285b4124a35a434c76a41428.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/e175c7c9285b4124a35a434c76a41428.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 8,
+  "short_title": "普通高中教科书•地理（选择性必修1 自然地理基础）教学参考资料",
+  "update_time": "2024-08-27 09:07:57",
+  "subject": "DL",
+  "used_grade_semesters": [
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "ZHDT",
+  "grade": "ELEVENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787558804274",
+  "status": "1",
+  "subject_str": "地理"
+}

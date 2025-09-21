@@ -1,0 +1,35 @@
+{
+  "uuid": "0d827989f945439f9eb31f00ad49e5f4",
+  "file_path": "https://cdn.sh-genius.cn/841fe3f87a9ebd6dbfa79e5fae49112c.dcz",
+  "file_md5": "841fe3f87a9ebd6dbfa79e5fae49112c",
+  "title": "普通高中 信息技术教学参考资料 选择性必修1 数据与数据结构 教学参考资料",
+  "cover_path": "https://cdn.sh-genius.cn/cover/0d827989f945439f9eb31f00ad49e5f4/0d827989f945439f9eb31f00ad49e5f4.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/0d827989f945439f9eb31f00ad49e5f4.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 10,
+  "short_title": "普通高中教科书·信息技术（选择性必修1 数据与数据结构）教学参考资料",
+  "update_time": "2025-02-14 20:10:47",
+  "subject": "XX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "HDSD",
+  "grade": "ELEVENTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787576029512",
+  "status": "1",
+  "subject_str": "信息科技"
+}

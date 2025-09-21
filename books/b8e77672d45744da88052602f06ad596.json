@@ -1,0 +1,35 @@
+{
+  "uuid": "b8e77672d45744da88052602f06ad596",
+  "file_path": "https://cdn.sh-genius.cn/f08516862ae44d73189d77dcf49549a0.dcz",
+  "file_md5": "f08516862ae44d73189d77dcf49549a0",
+  "title": "英语教学参考资料（牛津上海版） 五年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/b8e77672d45744da88052602f06ad596/b8e77672d45744da88052602f06ad596.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/b8e77672d45744da88052602f06ad596.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 12,
+  "short_title": "英语（牛津上海版）（试用本）（五/一）教学参考资料",
+  "update_time": "2024-08-27 15:43:11",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FIFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "05",
+      "grade_level_str": "五年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "FIFTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787544432788",
+  "status": "1",
+  "subject_str": "英语"
+}

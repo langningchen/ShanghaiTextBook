@@ -1,0 +1,35 @@
+{
+  "uuid": "bfc51fae069245b790f5423fd0b23301",
+  "file_path": "https://cdn.sh-genius.cn/56f1c4d4f6e6ac6fa5749f3dd2b5c457.dcz",
+  "file_md5": "56f1c4d4f6e6ac6fa5749f3dd2b5c457",
+  "title": "科学教学参考资料 六年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/bfc51fae069245b790f5423fd0b23301/bfc51fae069245b790f5423fd0b23301.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/bfc51fae069245b790f5423fd0b23301.jpg",
+  "is_current_term": 0,
+  "use_year": "2023",
+  "text_start_page": 6,
+  "short_title": "科学（试用本）（六/一）教学参考资料",
+  "update_time": "2023-08-24 10:53:18",
+  "subject": "KX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SIXTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "06",
+      "grade_level_str": "六年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "SIXTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787544493659",
+  "status": "1",
+  "subject_str": "科学"
+}

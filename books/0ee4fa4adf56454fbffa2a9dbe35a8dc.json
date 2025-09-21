@@ -1,0 +1,35 @@
+{
+  "uuid": "0ee4fa4adf56454fbffa2a9dbe35a8dc",
+  "file_path": "https://cdn.sh-genius.cn/9b62ad87b460480c8504eb749330d470.dcz",
+  "file_md5": "9b62ad87b460480c8504eb749330d470",
+  "title": "义务教育教科书（五·四学制） 英语教学参考资料 七年级 上册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/0ee4fa4adf56454fbffa2a9dbe35a8dc/0ee4fa4adf56454fbffa2a9dbe35a8dc.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/0ee4fa4adf56454fbffa2a9dbe35a8dc.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 16,
+  "short_title": "义务教育教科书（五·四学制）·英语教学参考资料（七年级上册）",
+  "update_time": "2025-08-13 11:41:50",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "07",
+      "grade_level_str": "七年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "SEVENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787572028632",
+  "status": "1",
+  "subject_str": "英语"
+}

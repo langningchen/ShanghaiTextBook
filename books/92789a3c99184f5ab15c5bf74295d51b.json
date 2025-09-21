@@ -1,0 +1,35 @@
+{
+  "uuid": "92789a3c99184f5ab15c5bf74295d51b",
+  "file_path": "https://cdn.sh-genius.cn/791eade96f80964cf522fafab58c1313.dcz",
+  "file_md5": "791eade96f80964cf522fafab58c1313",
+  "title": "普通高中教科书 英语教学参考资料 必修第一册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/92789a3c99184f5ab15c5bf74295d51b/92789a3c99184f5ab15c5bf74295d51b.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/92789a3c99184f5ab15c5bf74295d51b.jpg",
+  "is_current_term": 0,
+  "use_year": "2023",
+  "text_start_page": 12,
+  "short_title": "普通高中教科书·英语（必修第一册）教学参考资料",
+  "update_time": "2023-08-18 17:49:43",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "TENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787572014208",
+  "status": "1",
+  "subject_str": "英语"
+}

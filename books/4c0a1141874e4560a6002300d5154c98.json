@@ -1,0 +1,34 @@
+{
+  "uuid": "4c0a1141874e4560a6002300d5154c98",
+  "file_path": "https://cdn.sh-genius.cn/283cac4a3af3d53b61d06ae0bb16166a.dcz",
+  "file_md5": "283cac4a3af3d53b61d06ae0bb16166a",
+  "title": "义务教育教科书（五·四学制） 化学教学参考资料 八年级 上册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/4c0a1141874e4560a6002300d5154c98/4c0a1141874e4560a6002300d5154c98.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/4c0a1141874e4560a6002300d5154c98.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "义务教育教科书（五·四学制）·化学教学参考资料（八年级上册）",
+  "update_time": "2024-08-27 14:45:32",
+  "subject": "HX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "EIGHTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "08",
+      "grade_level_str": "八年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "grade": "EIGHTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787547867143",
+  "status": "1",
+  "subject_str": "化学"
+}

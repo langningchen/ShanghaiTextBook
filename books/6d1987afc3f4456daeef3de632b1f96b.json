@@ -1,0 +1,35 @@
+{
+  "uuid": "6d1987afc3f4456daeef3de632b1f96b",
+  "file_path": "https://cdn.sh-genius.cn/4f13db877e32a30e2cc8e5b074856271.dcz",
+  "file_md5": "4f13db877e32a30e2cc8e5b074856271",
+  "title": "音乐教学参考资料 四年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/6d1987afc3f4456daeef3de632b1f96b/6d1987afc3f4456daeef3de632b1f96b.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/6d1987afc3f4456daeef3de632b1f96b.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 8,
+  "short_title": "音乐（试用本）（四/二）教学参考资料",
+  "update_time": "2025-03-20 14:22:41",
+  "subject": "YU",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FOURTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "04",
+      "grade_level_str": "四年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYY",
+  "grade": "FOURTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787552318807",
+  "status": "1",
+  "subject_str": "音乐"
+}

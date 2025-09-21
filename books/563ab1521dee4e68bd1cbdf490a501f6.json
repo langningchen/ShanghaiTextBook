@@ -1,0 +1,35 @@
+{
+  "uuid": "563ab1521dee4e68bd1cbdf490a501f6",
+  "file_path": "https://cdn.sh-genius.cn/eaeb59127edcacb58e053b1d4fe285fd.dcz",
+  "file_md5": "eaeb59127edcacb58e053b1d4fe285fd",
+  "title": "美术教学参考资料 二年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/563ab1521dee4e68bd1cbdf490a501f6/563ab1521dee4e68bd1cbdf490a501f6.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/563ab1521dee4e68bd1cbdf490a501f6.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 10,
+  "short_title": "美术（试用本）（二/二）教学参考资料",
+  "update_time": "2025-02-15 07:33:20",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SECOND_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "02",
+      "grade_level_str": "二年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "SECOND_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787544496261",
+  "status": "1",
+  "subject_str": "美术"
+}

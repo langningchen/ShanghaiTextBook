@@ -1,0 +1,35 @@
+{
+  "uuid": "e4df55590ac04d40b16d551845bc5396",
+  "file_path": "https://cdn.sh-genius.cn/2377b6f4dd8bae9fb6cfa773dd26109a.dcz",
+  "file_md5": "2377b6f4dd8bae9fb6cfa773dd26109a",
+  "title": "普通高中 数学教学参考资料 必修 第三册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/e4df55590ac04d40b16d551845bc5396/e4df55590ac04d40b16d551845bc5396.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/e4df55590ac04d40b16d551845bc5396.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 6,
+  "short_title": "普通高中教科书·数学（必修第三册）教学参考资料",
+  "update_time": "2025-08-18 17:59:49",
+  "subject": "SX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "ELEVENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787572008481",
+  "status": "1",
+  "subject_str": "数学"
+}

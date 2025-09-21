@@ -1,0 +1,35 @@
+{
+  "uuid": "92733740b04f430d9be56e871b282942",
+  "file_path": "https://cdn.sh-genius.cn/ee13019a20d37dc5931646184fc06b57.dcz",
+  "file_md5": "ee13019a20d37dc5931646184fc06b57",
+  "title": "普通高中 音乐教学参考资料 必修6 音乐与戏剧",
+  "cover_path": "https://cdn.sh-genius.cn/cover/92733740b04f430d9be56e871b282942/92733740b04f430d9be56e871b282942.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/92733740b04f430d9be56e871b282942.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 8,
+  "short_title": "普通高中教科书·音乐（必修6 音乐与戏剧）教学参考资料",
+  "update_time": "2024-09-23 11:49:36",
+  "subject": "YU",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TWELFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "12",
+      "grade_level_str": "高三"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYY",
+  "grade": "TWELFTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787552322354",
+  "status": "1",
+  "subject_str": "音乐"
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "abc242ec6be54db1bd83a0e0a7842666",
+  "file_path": "https://cdn.sh-genius.cn/04339aa94464a0e72a2b95088f23701e.dcz",
+  "file_md5": "04339aa94464a0e72a2b95088f23701e",
+  "title": "普通高中 地理教学参考资料 必修 第一册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/abc242ec6be54db1bd83a0e0a7842666/abc242ec6be54db1bd83a0e0a7842666.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/abc242ec6be54db1bd83a0e0a7842666.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 8,
+  "short_title": "普通高中教科书·地理（必修第一册）教学参考资料",
+  "update_time": "2025-07-30 23:50:36",
+  "subject": "DL",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "ZHDT",
+  "grade": "TENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787558803703",
+  "status": "1",
+  "subject_str": "地理"
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "7da4871e934c44e6b8bc560bcc229d85",
+  "file_path": "https://cdn.sh-genius.cn/eea9148948b8a05a8256530d97715a31.dcz",
+  "file_md5": "eea9148948b8a05a8256530d97715a31",
+  "title": "科学教学参考资料 七年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/7da4871e934c44e6b8bc560bcc229d85/7da4871e934c44e6b8bc560bcc229d85.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/7da4871e934c44e6b8bc560bcc229d85.jpg",
+  "is_current_term": 0,
+  "use_year": "2022",
+  "text_start_page": 10,
+  "short_title": "科学（试用本）（七/二）教学参考资料",
+  "update_time": "2023-02-10 19:09:30",
+  "subject": "KX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "07",
+      "grade_level_str": "七年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYD",
+  "grade": "SEVENTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787807063926",
+  "status": "1",
+  "subject_str": "科学"
+}

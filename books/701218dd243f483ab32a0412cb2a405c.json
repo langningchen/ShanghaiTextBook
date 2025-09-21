@@ -1,0 +1,34 @@
+{
+  "uuid": "701218dd243f483ab32a0412cb2a405c",
+  "file_path": "https://cdn.sh-genius.cn/3e34071aa0e91d5fee672f6531de198a.dcz",
+  "file_md5": "3e34071aa0e91d5fee672f6531de198a",
+  "title": "普通高中 生物学教学参考资料 必修2 遗传与进化",
+  "cover_path": "https://cdn.sh-genius.cn/cover/701218dd243f483ab32a0412cb2a405c/701218dd243f483ab32a0412cb2a405c.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/701218dd243f483ab32a0412cb2a405c.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "普通高中教科书·生物学（必修2遗传与进化）教学参考资料",
+  "update_time": "2025-02-17 11:29:37",
+  "subject": "SW",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "grade": "TENTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787547855775",
+  "status": "1",
+  "subject_str": "生物"
+}

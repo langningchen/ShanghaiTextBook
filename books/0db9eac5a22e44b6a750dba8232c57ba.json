@@ -1,0 +1,35 @@
+{
+  "uuid": "0db9eac5a22e44b6a750dba8232c57ba",
+  "file_path": "https://cdn.sh-genius.cn/5b526b59d990d110f95d49d98e15b10f.dcz",
+  "file_md5": "5b526b59d990d110f95d49d98e15b10f",
+  "title": "普通高中 美术教学参考资料 选择性必修4 设计",
+  "cover_path": "https://cdn.sh-genius.cn/cover/0db9eac5a22e44b6a750dba8232c57ba/0db9eac5a22e44b6a750dba8232c57ba.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/0db9eac5a22e44b6a750dba8232c57ba.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 4,
+  "short_title": "普通高中教科书·美术（选择性必修4 设计）教学参考资料",
+  "update_time": "2025-02-20 12:19:14",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHSH",
+  "grade": "TENTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787547926680",
+  "status": "1",
+  "subject_str": "美术"
+}

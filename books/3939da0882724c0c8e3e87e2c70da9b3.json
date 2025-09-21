@@ -1,0 +1,35 @@
+{
+  "uuid": "3939da0882724c0c8e3e87e2c70da9b3",
+  "file_path": "https://cdn.sh-genius.cn/8653dac27b2adc8d302113454681f264.dcz",
+  "file_md5": "8653dac27b2adc8d302113454681f264",
+  "title": "普通高中 美术教学参考资料 必修 美术鉴赏",
+  "cover_path": "https://cdn.sh-genius.cn/cover/3939da0882724c0c8e3e87e2c70da9b3/3939da0882724c0c8e3e87e2c70da9b3.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/3939da0882724c0c8e3e87e2c70da9b3.jpg",
+  "is_current_term": 0,
+  "use_year": "2023",
+  "text_start_page": 4,
+  "short_title": "普通高中教科书·美术（必修 美术鉴赏）教学参考资料",
+  "update_time": "2023-08-21 11:11:44",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHSH",
+  "grade": "TENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787547926642",
+  "status": "1",
+  "subject_str": "美术"
+}

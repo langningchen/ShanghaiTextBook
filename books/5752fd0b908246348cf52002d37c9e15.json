@@ -1,0 +1,35 @@
+{
+  "uuid": "5752fd0b908246348cf52002d37c9e15",
+  "file_path": "https://cdn.sh-genius.cn/eedb0138b4b1e51018c88be8573c9dfc.dcz",
+  "file_md5": "eedb0138b4b1e51018c88be8573c9dfc",
+  "title": "自然教师手册 五年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/5752fd0b908246348cf52002d37c9e15/5752fd0b908246348cf52002d37c9e15.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/5752fd0b908246348cf52002d37c9e15.jpg",
+  "is_current_term": 0,
+  "use_year": "2022",
+  "text_start_page": 8,
+  "short_title": "自然（试用本）（五/二）教师手册",
+  "update_time": "2023-02-10 18:44:53",
+  "subject": "ZR",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FIFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "05",
+      "grade_level_str": "五年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYD",
+  "grade": "FIFTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787806619834",
+  "status": "1",
+  "subject_str": "自然"
+}

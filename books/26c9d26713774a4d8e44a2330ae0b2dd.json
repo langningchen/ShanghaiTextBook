@@ -1,0 +1,35 @@
+{
+  "uuid": "26c9d26713774a4d8e44a2330ae0b2dd",
+  "file_path": "https://cdn.sh-genius.cn/6d3faba8b586ac7e7556e5ee1779c8dd.dcz",
+  "file_md5": "6d3faba8b586ac7e7556e5ee1779c8dd",
+  "title": "化学教学参考资料 九年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/26c9d26713774a4d8e44a2330ae0b2dd/26c9d26713774a4d8e44a2330ae0b2dd.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/26c9d26713774a4d8e44a2330ae0b2dd.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 12,
+  "short_title": "化学（试用本）（九/一）教学参考资料",
+  "update_time": "2024-08-26 13:44:24",
+  "subject": "HX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "NINTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "09",
+      "grade_level_str": "九年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "NINTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787544492928",
+  "status": "1",
+  "subject_str": "化学"
+}

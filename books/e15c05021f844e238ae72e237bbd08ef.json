@@ -1,0 +1,35 @@
+{
+  "uuid": "e15c05021f844e238ae72e237bbd08ef",
+  "file_path": "https://cdn.sh-genius.cn/aaf521dda4e8ee772bb9ded6ed8c475e.dcz",
+  "file_md5": "aaf521dda4e8ee772bb9ded6ed8c475e",
+  "title": "义务教育教科书（五·四学制）·艺术·音乐教学参考资料 七年级 上册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/e15c05021f844e238ae72e237bbd08ef/e15c05021f844e238ae72e237bbd08ef.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/e15c05021f844e238ae72e237bbd08ef.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 8,
+  "short_title": "义务教育教科书（五·四学制）·艺术·音乐 教学参考资料（七年级上册）",
+  "update_time": "2024-09-23 14:56:42",
+  "subject": "YU",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "07",
+      "grade_level_str": "七年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYY",
+  "grade": "SEVENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787552329285",
+  "status": "1",
+  "subject_str": "音乐"
+}

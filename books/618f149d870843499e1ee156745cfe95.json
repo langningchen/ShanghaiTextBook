@@ -1,0 +1,35 @@
+{
+  "uuid": "618f149d870843499e1ee156745cfe95",
+  "file_path": "https://cdn.sh-genius.cn/4637ab461f120bf6bb214775f7fccb7f.dcz",
+  "file_md5": "4637ab461f120bf6bb214775f7fccb7f",
+  "title": "物理教学参考资料 九年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/618f149d870843499e1ee156745cfe95/618f149d870843499e1ee156745cfe95.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/618f149d870843499e1ee156745cfe95.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "物理（试用本）（九/一）教学参考资料",
+  "update_time": "2024-08-26 13:44:23",
+  "subject": "WL",
+  "used_grade_semesters": [
+    {
+      "grade_level": "NINTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "09",
+      "grade_level_str": "九年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "NINTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787544493031",
+  "status": "1",
+  "subject_str": "物理"
+}

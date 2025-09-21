@@ -1,0 +1,35 @@
+{
+  "uuid": "9cdc6ed0e6ab41c6be7fe8720c7b310a",
+  "file_path": "https://cdn.sh-genius.cn/358a252680f3389df275afd8e8f97e75.dcz",
+  "file_md5": "358a252680f3389df275afd8e8f97e75",
+  "title": "美术教学参考资料 五年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/9cdc6ed0e6ab41c6be7fe8720c7b310a/9cdc6ed0e6ab41c6be7fe8720c7b310a.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/9cdc6ed0e6ab41c6be7fe8720c7b310a.jpg",
+  "is_current_term": 0,
+  "use_year": "2023",
+  "text_start_page": 10,
+  "short_title": "美术（试用本）（五/一）教学参考资料",
+  "update_time": "2023-08-23 10:31:52",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FIFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "05",
+      "grade_level_str": "五年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "FIFTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787544493192",
+  "status": "1",
+  "subject_str": "美术"
+}

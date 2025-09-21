@@ -1,0 +1,35 @@
+{
+  "uuid": "56e39cdad18f45fcbbc0b7317ddfcd0e",
+  "file_path": "https://cdn.sh-genius.cn/ee90d5f46d2bf45df2a8ccf854c87f0b.dcz",
+  "file_md5": "ee90d5f46d2bf45df2a8ccf854c87f0b",
+  "title": "英语（牛津上海版）教学参考资料 九年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/56e39cdad18f45fcbbc0b7317ddfcd0e/56e39cdad18f45fcbbc0b7317ddfcd0e.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/56e39cdad18f45fcbbc0b7317ddfcd0e.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 8,
+  "short_title": "英语（牛津上海版）（试用本）（九/二）教学参考资料",
+  "update_time": "2025-02-17 14:30:10",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "NINTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "09",
+      "grade_level_str": "九年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "NINTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787544431668",
+  "status": "1",
+  "subject_str": "英语"
+}

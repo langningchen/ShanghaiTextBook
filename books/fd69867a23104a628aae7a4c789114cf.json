@@ -1,0 +1,35 @@
+{
+  "uuid": "fd69867a23104a628aae7a4c789114cf",
+  "file_path": "https://cdn.sh-genius.cn/e2ca9d9b9c30b375e7c841be6e3bbdcc.dcz",
+  "file_md5": "e2ca9d9b9c30b375e7c841be6e3bbdcc",
+  "title": "地理教学参考资料 七年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/fd69867a23104a628aae7a4c789114cf/fd69867a23104a628aae7a4c789114cf.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/fd69867a23104a628aae7a4c789114cf.jpg",
+  "is_current_term": 0,
+  "use_year": "2023",
+  "text_start_page": 6,
+  "short_title": "地理（试用本）（七/一）教学参考资料",
+  "update_time": "2023-08-24 10:37:52",
+  "subject": "DL",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "07",
+      "grade_level_str": "七年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "SEVENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787544493574",
+  "status": "1",
+  "subject_str": "地理"
+}

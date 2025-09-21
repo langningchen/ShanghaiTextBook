@@ -1,0 +1,35 @@
+{
+  "uuid": "d065059b6f2c4dd2883874180f81b458",
+  "file_path": "https://cdn.sh-genius.cn/f3911e8924a2e8e92d3f5140cabe5a6d.dcz",
+  "file_md5": "f3911e8924a2e8e92d3f5140cabe5a6d",
+  "title": "自然教学参考资料 五年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/d065059b6f2c4dd2883874180f81b458/d065059b6f2c4dd2883874180f81b458.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/d065059b6f2c4dd2883874180f81b458.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 6,
+  "short_title": "自然（试用本）教学参考资料（五/二）",
+  "update_time": "2025-02-14 19:13:34",
+  "subject": "ZR",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FIFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "05",
+      "grade_level_str": "五年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHKJ",
+  "grade": "FIFTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787542876119",
+  "status": "1",
+  "subject_str": "自然"
+}

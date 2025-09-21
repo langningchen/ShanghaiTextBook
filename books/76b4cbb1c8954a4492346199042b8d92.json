@@ -1,0 +1,35 @@
+{
+  "uuid": "76b4cbb1c8954a4492346199042b8d92",
+  "file_path": "https://cdn.sh-genius.cn/a3496b9e6b953c973846bfda2950c80f.dcz",
+  "file_md5": "a3496b9e6b953c973846bfda2950c80f",
+  "title": "美术教学参考资料 二年级 第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/76b4cbb1c8954a4492346199042b8d92/76b4cbb1c8954a4492346199042b8d92.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/76b4cbb1c8954a4492346199042b8d92.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 2,
+  "short_title": "美术（试用本）（二/二）教学参考资料",
+  "update_time": "2025-02-18 12:45:01",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SECOND_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "02",
+      "grade_level_str": "二年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHSH",
+  "grade": "SECOND_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787547922347",
+  "status": "1",
+  "subject_str": "美术"
+}

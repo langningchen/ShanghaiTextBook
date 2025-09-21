@@ -1,0 +1,35 @@
+{
+  "uuid": "854955ebf3c145eb9b3d9a9610b8d17b",
+  "file_path": "https://cdn.sh-genius.cn/5d576bdb0caedf60b45688c810156d6f.dcz",
+  "file_md5": "5d576bdb0caedf60b45688c810156d6f",
+  "title": "普通高中 地理教学参考资料 选择性必修2 区域发展",
+  "cover_path": "https://cdn.sh-genius.cn/cover/854955ebf3c145eb9b3d9a9610b8d17b/854955ebf3c145eb9b3d9a9610b8d17b.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/854955ebf3c145eb9b3d9a9610b8d17b.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 8,
+  "short_title": "普通高中教科书•地理（选择性必修2 区域发展）教学参考资料",
+  "update_time": "2024-08-27 09:28:38",
+  "subject": "DL",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TWELFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "12",
+      "grade_level_str": "高三"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "ZHDT",
+  "grade": "TWELFTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787558804250",
+  "status": "1",
+  "subject_str": "地理"
+}

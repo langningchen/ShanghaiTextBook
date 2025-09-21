@@ -1,0 +1,35 @@
+{
+  "uuid": "3e3f04008bd24e7b8b412d19f5431bf7",
+  "file_path": "https://cdn.sh-genius.cn/a6df3e8196c32c72ea139fa6b2b87815.dcz",
+  "file_md5": "a6df3e8196c32c72ea139fa6b2b87815",
+  "title": "地理教学参考资料 六年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/3e3f04008bd24e7b8b412d19f5431bf7/3e3f04008bd24e7b8b412d19f5431bf7.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/3e3f04008bd24e7b8b412d19f5431bf7.jpg",
+  "is_current_term": 0,
+  "use_year": "2022",
+  "text_start_page": 10,
+  "short_title": "地理（试用本）（六/一）教学参考资料",
+  "update_time": "2022-09-05 16:48:45",
+  "subject": "DL",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SIXTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "06",
+      "grade_level_str": "六年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "SIXTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787544493550",
+  "status": "1",
+  "subject_str": "地理"
+}

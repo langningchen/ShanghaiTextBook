@@ -1,0 +1,35 @@
+{
+  "uuid": "dfefe6f542044bf7a8cd370f4df40225",
+  "file_path": "https://cdn.sh-genius.cn/1fa6ec4ed2c6b2a72fcf05f2e44c9093.dcz",
+  "file_md5": "1fa6ec4ed2c6b2a72fcf05f2e44c9093",
+  "title": "义务教育教科书（五·四学制） 生物学教学参考资料 七年级 上册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/dfefe6f542044bf7a8cd370f4df40225/dfefe6f542044bf7a8cd370f4df40225.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/dfefe6f542044bf7a8cd370f4df40225.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 16,
+  "short_title": "义务教育教科书（五·四学制）·生物学教学参考资料（七年级上册）",
+  "update_time": "2024-09-09 12:24:06",
+  "subject": "SW",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "07",
+      "grade_level_str": "七年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "SEVENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787572028939",
+  "status": "1",
+  "subject_str": "生物"
+}

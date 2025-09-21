@@ -1,0 +1,35 @@
+{
+  "uuid": "480f0c37a34949ef8a0f642ac0327118",
+  "file_path": "https://cdn.sh-genius.cn/021a169ea2ee54128fac0236f1395dce.dcz",
+  "file_md5": "021a169ea2ee54128fac0236f1395dce",
+  "title": "普通高中 音乐教学参考资料 选择性必修 合唱 合奏",
+  "cover_path": "https://cdn.sh-genius.cn/cover/480f0c37a34949ef8a0f642ac0327118/480f0c37a34949ef8a0f642ac0327118.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/480f0c37a34949ef8a0f642ac0327118.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 10,
+  "short_title": "普通高中教科书·音乐（选择性必修 合唱 合奏）教学参考资料",
+  "update_time": "2024-09-23 13:49:16",
+  "subject": "YU",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHYY",
+  "grade": "TENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787552323955",
+  "status": "1",
+  "subject_str": "音乐"
+}

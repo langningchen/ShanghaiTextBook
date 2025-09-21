@@ -1,0 +1,35 @@
+{
+  "uuid": "c3e4e37456a24d47b2b3eafae680b015",
+  "file_path": "https://cdn.sh-genius.cn/6c781268fa7b70d123f63fbbd0be551d.dcz",
+  "file_md5": "6c781268fa7b70d123f63fbbd0be551d",
+  "title": "义务教育教科书（五·四学制） 体育与健康（教师用书） 武术类运动 全一册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/c3e4e37456a24d47b2b3eafae680b015/c3e4e37456a24d47b2b3eafae680b015.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/c3e4e37456a24d47b2b3eafae680b015.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 8,
+  "short_title": "义务教育教科书（五·四学制）体育与健康教师用书（配有数字演示资源）武术类运动 （全一册）",
+  "update_time": "2025-02-16 09:26:33",
+  "subject": "TJ",
+  "used_grade_semesters": [
+    {
+      "grade_level": "SIXTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "06",
+      "grade_level_str": "六年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "SIXTH_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787572029905",
+  "status": "1",
+  "subject_str": "体育与健身"
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "1f85cae2ba644b07aefaaf005f3ce441",
+  "file_path": "https://cdn.sh-genius.cn/9f79565b1199294a5fe2714949a3a538.dcz",
+  "file_md5": "9f79565b1199294a5fe2714949a3a538",
+  "title": "英语（牛津上海版）教学参考资料 三年级第二学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/1f85cae2ba644b07aefaaf005f3ce441/1f85cae2ba644b07aefaaf005f3ce441.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/1f85cae2ba644b07aefaaf005f3ce441.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 12,
+  "short_title": "英语（牛津上海版）（试用本）（三/二）教学参考资料",
+  "update_time": "2025-02-17 14:30:14",
+  "subject": "YY",
+  "used_grade_semesters": [
+    {
+      "grade_level": "THIRD_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "SECOND_SEMESTER",
+          "semester_phase_str": "下学期",
+          "semester_phase_code": "02"
+        }
+      ],
+      "grade_level_code": "03",
+      "grade_level_str": "三年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "THIRD_GRADE",
+  "term": "SECOND_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787544427944",
+  "status": "1",
+  "subject_str": "英语"
+}

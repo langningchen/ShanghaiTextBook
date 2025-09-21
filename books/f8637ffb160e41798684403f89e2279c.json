@@ -1,0 +1,35 @@
+{
+  "uuid": "f8637ffb160e41798684403f89e2279c",
+  "file_path": "https://cdn.sh-genius.cn/08c704a2daf9796c298fea3b7e3c277b.dcz",
+  "file_md5": "08c704a2daf9796c298fea3b7e3c277b",
+  "title": "普通高中 艺术教学参考资料 必修2 艺术与文化（下册）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/f8637ffb160e41798684403f89e2279c/f8637ffb160e41798684403f89e2279c.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/f8637ffb160e41798684403f89e2279c.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 8,
+  "short_title": "普通高中教科书·艺术（必修2 艺术与文化）（下册）教学参考资料",
+  "update_time": "2024-08-26 22:34:57",
+  "subject": "YS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "ELEVENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787572006647",
+  "status": "1",
+  "subject_str": "艺术"
+}

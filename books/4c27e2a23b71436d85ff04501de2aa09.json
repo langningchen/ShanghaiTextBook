@@ -1,0 +1,35 @@
+{
+  "uuid": "4c27e2a23b71436d85ff04501de2aa09",
+  "file_path": "https://cdn.sh-genius.cn/f53f616403101fd4fed435a8d2fe7dc8.dcz",
+  "file_md5": "f53f616403101fd4fed435a8d2fe7dc8",
+  "title": "普通高中 信息技术教学参考资料 选择性必修5 三维设计与创意 教学参考资料",
+  "cover_path": "https://cdn.sh-genius.cn/cover/4c27e2a23b71436d85ff04501de2aa09/4c27e2a23b71436d85ff04501de2aa09.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/4c27e2a23b71436d85ff04501de2aa09.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 10,
+  "short_title": "普通高中教科书·信息技术（选择性必修5 三维设计与创意）教学参考资料",
+  "update_time": "2025-09-03 16:44:16",
+  "subject": "XX",
+  "used_grade_semesters": [
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "HDSD",
+  "grade": "ELEVENTH_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787576029550",
+  "status": "1",
+  "subject_str": "信息科技"
+}

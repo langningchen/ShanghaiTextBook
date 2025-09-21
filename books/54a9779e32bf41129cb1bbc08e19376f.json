@@ -1,0 +1,59 @@
+{
+  "uuid": "54a9779e32bf41129cb1bbc08e19376f",
+  "file_path": "https://cdn.sh-genius.cn/f2ec30f8278b69bb35aef72b5564b323.dcz",
+  "file_md5": "f2ec30f8278b69bb35aef72b5564b323",
+  "title": "普通高中 美术教学参考资料 选择性必修4 设计",
+  "cover_path": "https://cdn.sh-genius.cn/cover/54a9779e32bf41129cb1bbc08e19376f/54a9779e32bf41129cb1bbc08e19376f.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/54a9779e32bf41129cb1bbc08e19376f.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 4,
+  "short_title": "普通高中教科书·美术（选择性必修4 设计）教学参考资料",
+  "update_time": "2025-08-22 14:26:25",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "TENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "10",
+      "grade_level_str": "高一"
+    },
+    {
+      "grade_level": "ELEVENTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "11",
+      "grade_level_str": "高二"
+    },
+    {
+      "grade_level": "TWELFTH_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "12",
+      "grade_level_str": "高三"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHSH",
+  "grade": "SENIOR_PHASE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787547926680",
+  "status": "1",
+  "subject_str": "美术"
+}

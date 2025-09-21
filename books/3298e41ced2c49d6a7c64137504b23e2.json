@@ -1,0 +1,35 @@
+{
+  "uuid": "3298e41ced2c49d6a7c64137504b23e2",
+  "file_path": "https://cdn.sh-genius.cn/b23a288b7a91a06b4ef1357ce43c70f2.dcz",
+  "file_md5": "b23a288b7a91a06b4ef1357ce43c70f2",
+  "title": "美术教学参考资料 三年级第一学期（试用本）",
+  "cover_path": "https://cdn.sh-genius.cn/cover/3298e41ced2c49d6a7c64137504b23e2/3298e41ced2c49d6a7c64137504b23e2.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/3298e41ced2c49d6a7c64137504b23e2.jpg",
+  "is_current_term": 0,
+  "use_year": "2024",
+  "text_start_page": 10,
+  "short_title": "美术（试用本）（三/一）教学参考资料",
+  "update_time": "2024-08-26 12:48:09",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "THIRD_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "03",
+      "grade_level_str": "三年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHJY",
+  "grade": "THIRD_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787544493185",
+  "status": "1",
+  "subject_str": "美术"
+}

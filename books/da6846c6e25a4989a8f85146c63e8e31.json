@@ -1,0 +1,35 @@
+{
+  "uuid": "da6846c6e25a4989a8f85146c63e8e31",
+  "file_path": "https://cdn.sh-genius.cn/8dfdd93e1d33be982a9a2f2c8c550fb1.dcz",
+  "file_md5": "8dfdd93e1d33be982a9a2f2c8c550fb1",
+  "title": "义务教育教科书（五·四学制）·艺术·造型·美术教学参考资料 一年级 上册",
+  "cover_path": "https://cdn.sh-genius.cn/cover/da6846c6e25a4989a8f85146c63e8e31/da6846c6e25a4989a8f85146c63e8e31.jpg?x-oss-process=image/resize,m_lfit,h_500&t=/da6846c6e25a4989a8f85146c63e8e31.jpg",
+  "is_current_term": 0,
+  "use_year": "2025",
+  "text_start_page": 4,
+  "short_title": "义务教育教科书（五·四学制）·艺术·造型·美术教学参考资料（一年级上册）（待审）",
+  "update_time": "2025-08-22 13:09:47",
+  "subject": "MS",
+  "used_grade_semesters": [
+    {
+      "grade_level": "FIRST_GRADE",
+      "used_semester_phases": [
+        {
+          "semester_phase": "FIRST_SEMESTER",
+          "semester_phase_str": "上学期",
+          "semester_phase_code": "01"
+        }
+      ],
+      "grade_level_code": "01",
+      "grade_level_str": "一年级"
+    }
+  ],
+  "textbook_material_type": "BASIC",
+  "publisher": "SHSH",
+  "grade": "FIRST_GRADE",
+  "term": "FIRST_SEMESTER",
+  "use_type": "JSYS",
+  "isbn": "9787547933862",
+  "status": "1",
+  "subject_str": "美术"
+}
